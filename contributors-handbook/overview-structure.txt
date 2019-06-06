@@ -71,8 +71,8 @@
 		},
 	],
 		"Sales & Cash-outs": [{
-			"title": "Criteria for getting icons approved",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
+			"title": "How to start selling on Iconfinder?",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/how-to-start-selling-icons-on-iconfinder"
 		},
 		{
 			"title": "Technical requirements",
