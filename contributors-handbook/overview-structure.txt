@@ -43,5 +43,95 @@
 			"title": "Artboards and icon templates",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/artboards-and-icon-templates"
 		}
+	],
+	"Before uploading icons": [{
+			"title": "Criteria for getting icons approved",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
+		},
+		{
+			"title": "Technical requirements",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/upload-specifications"
+		},
+		{
+			"title": "Quality standards",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/quality-standards"
+		},
+		{
+			"title": "Aesthetic appeal",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/aesthetic-appeal"
+		},
+		{
+			"title": "Business relevance",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/business-relevance"
+		},
+		{
+			"title": "Uniqueness",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/uniqueness"
+		},
+		{
+			"title": "Variety",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variety"
+		},
+		{
+			"title": "Variations",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variations"
+		},
+		{
+			"title": "Consistency",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/consistency"
+		},
+		{
+			"title": "Colors",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/colors"
+		},
+		{
+			"title": "Artboards and icon templates",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/artboards-and-icon-templates"
+		}
+	],
+		"Before uploading icons": [{
+			"title": "Criteria for getting icons approved",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
+		},
+		{
+			"title": "Technical requirements",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/upload-specifications"
+		},
+		{
+			"title": "Quality standards",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/quality-standards"
+		},
+		{
+			"title": "Aesthetic appeal",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/aesthetic-appeal"
+		},
+		{
+			"title": "Business relevance",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/business-relevance"
+		},
+		{
+			"title": "Uniqueness",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/uniqueness"
+		},
+		{
+			"title": "Variety",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variety"
+		},
+		{
+			"title": "Variations",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variations"
+		},
+		{
+			"title": "Consistency",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/consistency"
+		},
+		{
+			"title": "Colors",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/colors"
+		},
+		{
+			"title": "Artboards and icon templates",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/artboards-and-icon-templates"
+		}
 	]
 }
