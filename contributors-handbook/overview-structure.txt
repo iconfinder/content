@@ -1,1 +1,48 @@
-{"people": [{"website": "stackabuse.com", "from": "Nebraska", "name": "Scott"}, {"website": "google.com", "from": "Michigan", "name": "Larry"}, {"website": "apple.com", "from": "Alabama", "name": "Tim"}]}
+{
+   "Before uploading icons":[
+      {
+         "Criteria for getting icons approved",
+         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
+      },
+      {
+         "Technical requirements",
+         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/upload-specifications"
+      },
+      {
+         "Quality standards",
+         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/quality-standards"
+      },
+      {
+         "Aesthetic appeal",
+         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/aesthetic-appeal"
+      },
+      {
+         "Business relevance",
+         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/business-relevance"
+      },
+      {
+         "Uniqueness",
+         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/uniqueness"
+      },
+      {
+         "Variety",
+         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variety"
+      },
+      {
+         "Variations",
+         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variations"
+      },
+      {
+         "Consistency",
+         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/consistency"
+      },
+      {
+         "Colors",
+         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/colors"
+      },
+      {
+         "Artboards and icon templates",
+         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/artboards-and-icon-templates"
+      }
+  ]
+}
