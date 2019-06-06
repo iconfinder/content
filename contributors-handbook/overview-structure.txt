@@ -44,8 +44,7 @@
 			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/artboards-and-icon-templates"
 		}
 	],
-	"Icon upload & Management": [
-		{
+	"Icon upload & Management": [{
 			"title": "Adding tags",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-upload-and-management/tags"
 		},
@@ -68,9 +67,9 @@
 		{
 			"title": "Recently icons not showing",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/why-are-your-recently-uploaded-icons-not-in-the-search-results"
-		},
+		}
 	],
-		"Sales & Cash-outs": [{
+	"Sales & Cash-outs": [{
 			"title": "How to start selling on Iconfinder?",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/how-to-start-selling-icons-on-iconfinder"
 		},
@@ -83,7 +82,7 @@
 			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/quality-standards"
 		}
 	],
-		"Verification & Copyright": [{
+	"Verification & Copyright": [{
 			"title": "Criteria for getting icons approved",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
 		},
