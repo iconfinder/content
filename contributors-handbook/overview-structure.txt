@@ -102,7 +102,7 @@
 			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/quality-standards"
 		}
 	],
-		"Designer verification & Copyright": [{
+		"Verification & Copyright": [{
 			"title": "Criteria for getting icons approved",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
 		},
