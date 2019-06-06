@@ -1,48 +1,48 @@
 {
    "Before uploading icons":[
       {
-         "Criteria for getting icons approved",
-         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
+         "title": "title": "Criteria for getting icons approved",
+         "url": "url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
       },
       {
-         "Technical requirements",
-         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/upload-specifications"
+         "title": "Technical requirements",
+         "url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/upload-specifications"
       },
       {
-         "Quality standards",
-         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/quality-standards"
+         "title": "Quality standards",
+         "url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/quality-standards"
       },
       {
-         "Aesthetic appeal",
-         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/aesthetic-appeal"
+         "title": "Aesthetic appeal",
+         "url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/aesthetic-appeal"
       },
       {
-         "Business relevance",
-         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/business-relevance"
+         "title": "Business relevance",
+         "url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/business-relevance"
       },
       {
-         "Uniqueness",
-         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/uniqueness"
+         "title": "Uniqueness",
+         "url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/uniqueness"
       },
       {
-         "Variety",
-         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variety"
+         "title": "Variety",
+         "url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variety"
       },
       {
-         "Variations",
-         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variations"
+         "title": "Variations",
+         "url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variations"
       },
       {
-         "Consistency",
-         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/consistency"
+         "title": "Consistency",
+         "url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/consistency"
       },
       {
-         "Colors",
-         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/colors"
+         "title": "Colors",
+         "url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/colors"
       },
       {
-         "Artboards and icon templates",
-         "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/artboards-and-icon-templates"
+         "title": "Artboards and icon templates",
+         "url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/artboards-and-icon-templates"
       }
   ]
 }
