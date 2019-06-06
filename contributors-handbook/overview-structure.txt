@@ -44,7 +44,7 @@
 			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/artboards-and-icon-templates"
 		}
 	],
-	"Before uploading icons": [{
+	"Icon upload & Management": [{
 			"title": "Criteria for getting icons approved",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
 		},
@@ -89,7 +89,7 @@
 			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/artboards-and-icon-templates"
 		}
 	],
-		"Before uploading icons": [{
+		"Sales & Cash-outs": [{
 			"title": "Criteria for getting icons approved",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
 		},
@@ -100,38 +100,19 @@
 		{
 			"title": "Quality standards",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/quality-standards"
+		}
+	],
+		"Designer verification & Copyright": [{
+			"title": "Criteria for getting icons approved",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
 		},
 		{
-			"title": "Aesthetic appeal",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/aesthetic-appeal"
+			"title": "Technical requirements",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/upload-specifications"
 		},
 		{
-			"title": "Business relevance",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/business-relevance"
-		},
-		{
-			"title": "Uniqueness",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/uniqueness"
-		},
-		{
-			"title": "Variety",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variety"
-		},
-		{
-			"title": "Variations",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variations"
-		},
-		{
-			"title": "Consistency",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/consistency"
-		},
-		{
-			"title": "Colors",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/colors"
-		},
-		{
-			"title": "Artboards and icon templates",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/artboards-and-icon-templates"
+			"title": "Quality standards",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/quality-standards"
 		}
 	]
 }
