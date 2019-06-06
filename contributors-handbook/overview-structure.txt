@@ -44,50 +44,31 @@
 			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/artboards-and-icon-templates"
 		}
 	],
-	"Icon upload & Management": [{
-			"title": "Criteria for getting icons approved",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
+	"Icon upload & Management": [
+		{
+			"title": "Adding tags",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-upload-and-management/tags"
 		},
 		{
-			"title": "Technical requirements",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/upload-specifications"
+			"title": "Icon families",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/how-to-manage-icon-sets-and-families"
 		},
 		{
-			"title": "Quality standards",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/quality-standards"
+			"title": "Submission rejected",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/your-icons-were-rejected-what-to-do"
 		},
 		{
-			"title": "Aesthetic appeal",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/aesthetic-appeal"
+			"title": "Icons stopped uploading",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/what-to-do-when-your-icons-are-not-uploading"
 		},
 		{
-			"title": "Business relevance",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/business-relevance"
+			"title": "Adding to existing icon set",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/how-to-add-to-or-delete-icons-from-an-icon-set"
 		},
 		{
-			"title": "Uniqueness",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/uniqueness"
+			"title": "Recently icons not showing",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/why-are-your-recently-uploaded-icons-not-in-the-search-results"
 		},
-		{
-			"title": "Variety",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variety"
-		},
-		{
-			"title": "Variations",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variations"
-		},
-		{
-			"title": "Consistency",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/consistency"
-		},
-		{
-			"title": "Colors",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/colors"
-		},
-		{
-			"title": "Artboards and icon templates",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/artboards-and-icon-templates"
-		}
 	],
 		"Sales & Cash-outs": [{
 			"title": "Criteria for getting icons approved",
