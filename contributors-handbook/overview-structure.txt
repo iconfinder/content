@@ -74,25 +74,49 @@
 			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/how-to-start-selling-icons-on-iconfinder"
 		},
 		{
-			"title": "Technical requirements",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/upload-specifications"
+			"title": "Contributor's business guide",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/contributor-business-guide"
 		},
 		{
-			"title": "Quality standards",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/quality-standards"
+			"title": "How to request a cash out?",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/how-to-request-a-cash-out"
+		},
+		{
+			"title": "How to use Sales Analytics?",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/how-to-use-sales-analytics"
+		},
+		{
+			"title": "Tips and tricks for improving your sales on Iconfinder",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/tips-and-tricks-for-improving-your-sales-on-iconfinder"
+		},
+		{
+			"title": "Selling custom services through Iconfinder",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/selling-custom-services-through-iconfinder"
+		},
+		{
+			"title": "How to sell icons under the Extended license?",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/how-to-sell-icons-under-the-extended-license"
+		},
+		{
+			"title": "Why do refunds happen?",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/why-do-refunds-happen"
 		}
 	],
 	"4. Verification & Copyright": [{
-			"title": "Criteria for getting icons approved",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
+			"title": "Copyright basics for icon designers",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-designer-verification-and-copyright/copyright-basics-for-icon-designers"
 		},
 		{
-			"title": "Technical requirements",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/upload-specifications"
+			"title": "Account verification",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-designer-verification-and-copyright/account-verification"
 		},
 		{
-			"title": "Quality standards",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/quality-standards"
+			"title": "Checklist for Account verification",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-designer-verification-and-copyright/checklist-for-account-verification"
+		},
+		{
+			"title": "Policy towards copyright infringing material",
+			"url": "http://support.iconfinder.com/contributor-s-handbook-designer-verification-and-copyright/policy-towards-copyright-infringing-material"
 		}
 	]
 }
