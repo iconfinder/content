@@ -1,122 +1,150 @@
-{
-	"1. Before uploading icons": [{
-			"title": "Criteria for getting icons approved",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
-		},
-		{
-			"title": "Technical requirements",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/upload-specifications"
-		},
-		{
-			"title": "Quality standards",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/quality-standards"
-		},
-		{
-			"title": "Aesthetic appeal",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/aesthetic-appeal"
-		},
-		{
-			"title": "Business relevance",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/business-relevance"
-		},
-		{
-			"title": "Uniqueness",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/uniqueness"
-		},
-		{
-			"title": "Variety",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variety"
-		},
-		{
-			"title": "Variations",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variations"
-		},
-		{
-			"title": "Consistency",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/consistency"
-		},
-		{
-			"title": "Colors",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/colors"
-		},
-		{
-			"title": "Artboards and icon templates",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/artboards-and-icon-templates"
-		}
-	],
-	"2. Icon upload & Management": [{
-			"title": "Adding tags",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-upload-and-management/tags"
-		},
-		{
-			"title": "Icon families",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/how-to-manage-icon-sets-and-families"
-		},
-		{
-			"title": "Submission rejected",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/your-icons-were-rejected-what-to-do"
-		},
-		{
-			"title": "Icons stopped uploading",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/what-to-do-when-your-icons-are-not-uploading"
-		},
-		{
-			"title": "Adding to existing icon set",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/how-to-add-to-or-delete-icons-from-an-icon-set"
-		},
-		{
-			"title": "Recently icons not showing",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/why-are-your-recently-uploaded-icons-not-in-the-search-results"
-		}
-	],
-	"3. Sales & Cash-outs": [{
-			"title": "How to start selling on Iconfinder?",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/how-to-start-selling-icons-on-iconfinder"
-		},
-		{
-			"title": "Contributor's business guide",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/contributor-business-guide"
-		},
-		{
-			"title": "How to request a cash out?",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/how-to-request-a-cash-out"
-		},
-		{
-			"title": "How to use Sales Analytics?",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/how-to-use-sales-analytics"
-		},
-		{
-			"title": "Tips and tricks for improving your sales on Iconfinder",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/tips-and-tricks-for-improving-your-sales-on-iconfinder"
-		},
-		{
-			"title": "Selling custom services through Iconfinder",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/selling-custom-services-through-iconfinder"
-		},
-		{
-			"title": "How to sell icons under the Extended license?",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/how-to-sell-icons-under-the-extended-license"
-		},
-		{
-			"title": "Why do refunds happen?",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/why-do-refunds-happen"
-		}
-	],
-	"4. Verification & Copyright": [{
-			"title": "Copyright basics for icon designers",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-designer-verification-and-copyright/copyright-basics-for-icon-designers"
-		},
-		{
-			"title": "Account verification",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-designer-verification-and-copyright/account-verification"
-		},
-		{
-			"title": "Checklist for Account verification",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-designer-verification-and-copyright/checklist-for-account-verification"
-		},
-		{
-			"title": "Policy towards copyright infringing material",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-designer-verification-and-copyright/policy-towards-copyright-infringing-material"
-		}
-	]
-}
+[{
+    "order": "0",
+    "title": "Most commonly used",
+    "reasons": [{
+        "title": "Not Premium Quality - Drawing Quality",
+        "description": "The drawing quality  of these icons does not meet our standards for Premium icons. Given the highly competitive nature of the stock icon market, thousands of designers, and millions of icons avaiable to customers, we can only accept outstanding quality and unique icons. We regret to inform you that these do not meet that criteria. You can read more about designing high-quality, premium icons here: http://blog.iconfinder.com/better-icon-design-in-6-easy-steps/ and here: https://www.google.com/design/spec/style/icons.html#icons-system-icons/, and of course, here: http://support.iconfinder.com/contributor-s-handbook . If you would like to discuss this decision, feel free to email us at support@iconfinder.com"
+    }, {
+        "title": "Should be Submitted in Vector format",
+        "description": "In general, our customers prefer vector (SVG) icons. Unless there is a good reason for them to not be in raster format e.g. effects such as shadows, we will not accept them. We respectfully decline to include these icons in our marketplace."
+    }, {
+        "title": "No Logos, Trademarks, or Copyrighted Works",
+        "description": "For legal reasons, we cannot sell icons that include company logos or trademarks such as those belonging to social media sites like Facebook, YouTube, Twitter, or common banking and payment logos such as Visa, MasterCard, and/or PayPal. If you want to offer them as free icons we can include them but otherwise we must respectfully decline. Thank you for understanding. You can read more about icon sets here: http://support.iconfinder.com/contributor-s-handbook."
+    }, {
+        "title": "Too Few Tags",
+        "description": "Your icons look good but you have too few tags. Tags are the primary way users find your icons so it is important to have unique, very descriptive tags. We recommend between 4 and 7 tags for optimal search performance. Keep in mind that if you add more than seven tags the icon will get a lower rank. You can read more about tagging here: http://support.iconfinder.com/contributor-s-handbook/tags."
+    }, {
+        "title": "Too Few Icons",
+        "description": "This is a pretty good start but your set contains too few icons. We require at least 10 icons for each submission to be considered for inclusion in the marketplace. If you would like to build out the set to 10 icons, we will be happy to re-evaluate it for the site. You can read more about icon sets here: http://support.iconfinder.com/contributor-s-handbook."
+    }, {
+        "title": "Design Inconsistencies",
+        "description": "The design elements in this set are not used consistently. Premium icons should form a cohesive set with shared design elements such as rounded or square corners, consistent line weights, consistent use of spacing around and between elements, consistent line caps, etc. Each icon within a set should be recognizable as belonging to a particular set in the same way that each letter form in a font is recognizable as belonging to that font. The icon market is very competitive with more-and-more high-quality sets published by more-and-more skilled designers every day. Your sales depend on uniqueness, exceptional quality, and standing out from the crowd. You can read more about consistency here: http://support.iconfinder.com/contributor-s-handbook/uploading-icons/consistency and https://www.smashingmagazine.com/2016/05/easy-steps-to-better-logo-design/"
+    }, {
+        "title": "Need Billing Details",
+        "description": "We are missing your Billing Details and cannot approve your set without them. You can access your Billing Details here: https://www.iconfinder.com/account/payment-settings"
+    }, {
+        "title": "Please Do Not Ignore Suggestions",
+        "description": "Please do not ignore our requests for changes to your icons. We want to help you maximize your sales and to only present the highest quality icons to site users and customers. If you ignore our advice then we have no choice but to reject the icons and we really do not want to do that. Ignoring our recommendations wastes your time and ours and resubmitting them without changes will not achieve a different result. Thank you."
+    }, {
+        "title": "Limited Commercial Value",
+        "description": "Based on our data including millions of monthly searches, we do not believe there is much demand by customers for these icons which limits their commercial value. Since the icons do not add value for site users we respectfully decline to add them to the marketplace."
+    }, {
+        "title": "Repeating Icons",
+        "description": "We do not accept icon sets that repeat the same object over-and-over in different styles, in different colors, etc. All icons in a set should represent a unique object, action, or idea. A set of 10 or more of the set object does not add value for the customer and devalues everyone's icons by saturating the search results."
+    }, {
+        "title": "Combining Multiple Icons",
+        "description": "We do not accept icons that are created from combining multiple icons that are the same size then shrinking one or more of the icons. The difference in scale is obvious and these do not qualify as Premium icons. Icons of this nature should be designed and drawn at the same scale so that all design elements match."
+    }, {
+        "title": "Review Contributor's Handbook",
+        "description": "The Contributor's Handbook helps guide you through the submission process to make it quicker and easier -  http://support.iconfinder.com/contributor-s-handbook"
+    }]
+}, {
+    "order": "1",
+    "title": "Icon sets",
+    "reasons": [{
+        "title": "Design Quality - General",
+        "description": "We are sorry to reject these icons but the is not high enough for inclusion on our site. You can read more about designing high-quality, premium icons here: http://blog.iconfinder.com/better-icon-design-in-6-easy-steps/ and here: https://www.google.com/design/spec/style/icons.html#icons-system-icons/, and of course, here: http://support.iconfinder.com/contributor-s-handbook. If you would like to discuss this decision, feel free to email us at support@iconfinder.com'"
+    }, {
+        "title": "Too Many Icons",
+        "description": "This is really nice work but your set contains too many icons. Icon sets may contain a maximum of 250 icons (30-50 is ideal). We impose this limit to maintain a high value of the icons on our site and to prevent designers from submitting thousands of icons in a set and selling them at very low prices, and so undercutting other designers and deflating the value of all icons on the site. In some cases we will allow for exceptions when a set cannot be logically broken up but this is not such a case. Would you mind splitting this set into smaller sets of not more than 250 icons? You can read more about icon sets here: http://support.iconfinder.com/contributor-s-handbook."
+    }, {
+        "title": "Unique, Memorable Set Names",
+        "description": "Icon set names should be unique and memorable. You can read more about icon sets here: http://support.iconfinder.com/contributor-s-handbook"
+    }, {
+        "title": "No Numbers in Set Names",
+        "description": "Icon set name should not contain the number of icons in the icon set. You can read more about icon sets here: http://support.iconfinder.com/contributor-s-handbook."
+    }, {
+        "title": "Not Enough Variety, Too Repetitive",
+        "description": "Your set lacks enough variety. As a general rule, we do not accept icon sets that are too repetitive or contain too little variety. We prefer icon sets that depict different objects, ideas, or actions around a common theme as opposed to icons that depict the same or similar objects with only variations in background, color, or style. You can read more about icon sets here: http://support.iconfinder.com/contributor-s-handbook."
+    }, {
+        "title": "No Arbitrary Combos and Repitition",
+        "description": "We do not accept icons that arbitrarily combine unrelated icons such as location markers and random symbols. Please make sure that any icons created from combining icons has a meaningful application or use. You can read more about icon sets here: http://support.iconfinder.com/contributor-s-handbook."
+    }, {
+        "title": "Keyword Over-Saturation",
+        "description": "We are sorry that we cannot accept these icons for our marketplace. The icon market has become so saturated with high-quality icons and icon designers that new icons added to our site need to be truly exceptional. While these icons are good, the do not exceed the quality of what is currently available in an already over-supplied category so we cannot accept them. Please accept our apologies."
+    }]
+}, {
+    "order": "2",
+    "title": "Icon design and quality",
+    "reasons": [{
+        "title": "Glyphs Converted to Outlines",
+        "description": "We're sorry but we cannot approve these icons. It's obvious that you created these line icons by converting a set of glyph icons to outlines in Illustrator. This is not the correct way to design line icons. When one designs solid icons, the solid shapes are used to define areas of light and shadow without relying on lines. Using lines to define a shape uses a completely different approach and rather than use light and shadow to define the edges of an object, the edges of the object are outlined without regard to light and shadow. The two approaches are mutually-exclusive and converting a solid icon to outlines doesn't look good. Sorry."
+    }, {
+        "title": "Rasters Too Small",
+        "description": "The raster files you have uploaded do not meet the minimum file size requirement of 256 x 256 pixels for raster icons. We greatly prefer vector files over raster files. If you must submit raster images, please upload higher resolution files. You can read more about sizes of icons here: http://support.iconfinder.com/contributor-s-handbook/sizes"
+    }, {
+        "title": "Inconsistent Design Style",
+        "description": "The design style of the icons you have submitted is not consistent across this set. Icons in a single set should be all glyph, all line, all flat, etc. Please update this set to be a consistent design style or split the set into different sets grouped by style. You can read more about consistency here: http://support.iconfinder.com/contributor-s-handbook/consistency"
+    }, {
+        "title": "Strokes Inconsistent",
+        "description": "Your icons do not use consistent line weights. This is an important aspect of high-quality icons. You can read more about consistency here: http://support.iconfinder.com/articles/2548775-consistency."
+    }, {
+        "title": "Effects Inconsistent",
+        "description": "Effects are inconsistent. Use the same effects on all icons, or no effects at all. You can read more about consistency here: http://support.iconfinder.com/contributor-s-handbook/consistency."
+    }, {
+        "title": "Shapes Inconsistent",
+        "description": "Shapes behind or around icons should be consistent. You can read more about consistency here: http://support.iconfinder.com/contributor-s-handbook/consistency."
+    }, {
+        "title": "Fit Icons to Artboard",
+        "description": "Vector icons must fit within the art board. If the artboard is too large compared to the icon, the thumbnails will appear to small to be seen. Read more about icon artboards here: http://support.iconfinder.com/contributor-s-handbook/icon-artboards"
+    }, {
+        "title": "Colours Inconsistent",
+        "description": "Colours are inconsistent. Try to avoid using too many different colours. You can read more about that here: http://support.iconfinder.com/contributor-s-handbook/colors"
+    }, {
+        "title": "No Longer Accepting Raster Icons",
+        "description": "We are finding it harder and harder to sell raster/PNG icons. In general, our customers prefer vector (SVG) icons. We respectfully decline to include these icons in our marketplace"
+    }, {
+        "title": "Too Many Variations",
+        "description": "We are trying to minimize duplicate icons with only minor stylistic differences such as background shapes and/or colors. You can submit one version per design style. For instance, 1 glyph, 1 line, 1 flat, 1 3D, etc. Submitting duplicate designs with only the colors changed, or placed in or on a circle (or other shape) is not allowed. You can read more about this issue in the Icon Set Variations section here: http://support.iconfinder.com/contributor-s-handbook/icon-set-variations"
+    }, {
+        "title": "White Fill Error",
+        "description": "It looks like your icons have some errors with color fills. Some shapes have white fills where they should probably be transparent. Try viewing your icons on a dark background to make sure they look as you intend."
+    }, {
+        "title": "Not Iconic - Silhouettes",
+        "description": "We are looking for graphics that are iconic in nature. By iconic we mean simplified, idealized, and/or stylized images that represent an action, object, or idea. We do not accept artwork that is simply a literal silhouette of an object without creative interpretation. Read more about this topic under Icons Vs. illustrations here: http://support.iconfinder.com/contributor-s-handbook"
+    }, {
+        "title": "Not Iconic - Silhouettes",
+        "description": "We are looking for graphics that are iconic in nature. By iconic we mean simplified, idealized, and/or stylized images that represent an action, object, or idea. We do not accept artwork that is simply a literal silhouette of an object without creative interpretation. Read more about this topic under Icons Vs. illustrations here: http://support.iconfinder.com/contributor-s-handbook"
+    }, {
+        "title": "Not Iconic - Letters, Number, Characters",
+        "description": "We do not accept artwork that is simply a collection of letters, numbers, or keyboard characters. Read more about this topic under Icons Vs. illustrations here: http://support.iconfinder.com/contributor-s-handbook"
+    }, {
+        "title": "Unneeded gradients and color fill variations",
+        "description": "The icons you uploaded contain gradients and/or color fills that are not adding to the quality nor vesatility/usability of the icons. When creating/uploading the icons please take into account that a lot of users have problems changing gradient colors, and would rather use a normal black fill/color fill icon and just simple change the color."
+    }]
+}, {
+    "order": "3",
+    "title": "Tagging",
+    "reasons": [{
+        "title": "Too Many Tags",
+        "description": "Try optimizing the number of tags and avoid generic or unnecessary tags. If you add more than 7-8 tags the icons will rank lower in the search results. http://support.iconfinder.com/contributor-s-handbook/tags"
+    }, {
+        "title": "Tags Not Relevant",
+        "description": "Some tags are not relevant for what the icon represents. Please avoid adding unnecessary tags and select tags that will help potential customers find them by accurately describing the object, idea, or action depicted. You can read more about tagging here: http://support.iconfinder.com/contributor-s-handbook/tags"
+    }, {
+        "title": "No Alternate Spellings",
+        "description": "Do not try to compensate for alternative spelling. The system will handle mispellings. You can read more about tagging here: http://support.iconfinder.com/contributor-s-handbook/tags"
+    }, {
+        "title": "Non-descriptive, Generic Tags",
+        "description": "Avoid generic and non-descriptive tag. Tags should describe what the icon represents. You can read more about tagging here: http://support.iconfinder.com/contributor-s-handbook/tags"
+    }, {
+        "title": "No Pluralizing Tags",
+        "description": "Avoid unnecessarily pluralizing tags. Our search technology is smart and will consider appropriate pluralizations as needed during searches. You can read more about tagging here: http://support.iconfinder.com/contributor-s-handbook/tags"
+    }, {
+        "title": "No Digits in Tags",
+        "description": "Avoid having digits at the end of tags e.g. folder12 should be folder. You can read more about tagging here: http://support.iconfinder.com/contributor-s-handbook/tags"
+    }, {
+        "title": "No Style, Shape, or Color Tags",
+        "description": "Avoid describing the style, shape, or color with tags. Icons will be categorized with the appropriate information. http://support.iconfinder.com/contributor-s-handbook/tags"
+    }, {
+        "title": "English Tags Only",
+        "description": "It is our policy to accept icons that are named and tagged in English only due to the fact that most of our customers are native English speakers. Please update your tags to use English only."
+    }]
+}, {
+    "order": "4",
+    "title": "Miscellaneous",
+    "reasons": [{
+        "title": "More Detailed Info Needed",
+        "description": "Before we can approve your set we have some additional questions that require your feedback. Please email us at support@iconfinder.com and reference the content reviewer and include a link to your iconset. Please note, we cannot approve your set until you email us to discuss."
+    }]
+}]
