@@ -143,6 +143,9 @@
     "order": "9",
     "title": "Other",
     "reasons": [{
+        "title": "Missing Billing Details",
+        "description": "We are missing your billing details and cannot approve your set without them. You can access your billing details here: https://www.iconfinder.com/account/payment-settings"
+    }, {
         "title": "Please do not ignore suggestions",
         "description": "Please do not ignore our requests for changes to your icons. Ignoring our recommendations wastes your time and ours and resubmitting the icons without changes will not achieve a different result. It risks getting the set rejected."
     }]
