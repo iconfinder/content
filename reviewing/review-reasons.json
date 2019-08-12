@@ -96,16 +96,20 @@
         "description": "The minimum number of icons per set is 10. Please add more icons. The ideal icon set size is between 30 and 50 icons. This is large enough to offer the customer ample icons around a single topic, but small enough to not devalue icons. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
     }, {
         "title": "Too many icons in set",
-        "description": "The maximum number of icons per set is 250. We recommend to split the icons into two or more sets. The ideal icon set size is between 30 and 50 icons. This is large enough to offer the customer ample icons around a single topic, but small enough to not devalue icons. Remember you can group sets in families. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
+        "description": "The maximum number of icons per set is 250. We recommend to split the icons into two or more sets. The ideal icon set size is between 30 and 50 icons. This is large enough to offer the customer ample icons around a single topic, but small enough to not devalue icons. Remember you can group sets in families. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements",
+        "autocheck": "too_many_icons"
     }, {
         "title": "No PNGs",
-        "description": "We only accept SVG (vector) icons. We are finding that customers are not downloading or buying PNG icons. We will accept PNG icon in special circumstances such as highly-rendered 3D icons but, in general, we no longer accept PNG icons. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
+        "description": "We only accept SVG (vector) icons. We are finding that customers are not downloading or buying PNG icons. We will accept PNG icon in special circumstances such as highly-rendered 3D icons but, in general, we no longer accept PNG icons. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements",
+        "autocheck": "is_raster"
     }, {
         "title": "Too many tags",
-        "description": "The ideal number of tags is between 4 and 7 per icon. If you have more than 7 tags, that will decrease the rank of the icon in the search results. Learn about tags here: http://support.iconfinder.com/en/articles/18163-tags"
+        "description": "The ideal number of tags is between 4 and 7 per icon. If you have more than 7 tags, that will decrease the rank of the icon in the search results. Learn about tags here: http://support.iconfinder.com/en/articles/18163-tags",
+        "autocheck": "too_many_tags"
     }, {
         "title": "Too few tags",
-        "description": "The ideal number of tags is between 4 and 7 per icon. If it makes sense to have less than 4 tags, that is ok. If you have more than 7 tags, that will decrease the rank of the icon in the search results. Learn about tags here: http://support.iconfinder.com/en/articles/18163-tags"
+        "description": "The ideal number of tags is between 4 and 7 per icon. If it makes sense to have less than 4 tags, that is ok. If you have more than 7 tags, that will decrease the rank of the icon in the search results. Learn about tags here: http://support.iconfinder.com/en/articles/18163-tags",
+        "autocheck": "too_few_tags"
     }, {
         "title": "No logos or other trademarked elements",
         "description": "For legal reasons, we cannot sell icons that include company logos or trademarks such as those belonging to social media sites (Facebook, YouTube, Twitter) or banking and payment logos (Visa, MasterCard, PayPal). We can only accept them as free icons. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
@@ -144,7 +148,8 @@
     "title": "Other",
     "reasons": [{
         "title": "Missing Billing Details",
-        "description": "We are missing your billing details and cannot approve your set without them. You can access your billing details here: https://www.iconfinder.com/account/payment-settings"
+        "description": "We are missing your billing details and cannot approve your set without them. You can access your billing details here: https://www.iconfinder.com/account/payment-settings",
+        "autocheck": "sufficient_details"
     }, {
         "title": "Please do not ignore suggestions",
         "description": "Please do not ignore our requests for changes to your icons. Ignoring our recommendations wastes your time and ours and resubmitting the icons without changes will not achieve a different result. It risks getting the set rejected."
