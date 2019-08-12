@@ -93,7 +93,8 @@
         "description": "We do not accept artwork that is simply a collection of letters, numbers, or keyboard characters. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
     }, {
         "title": "Too few icons in set",
-        "description": "The minimum number of icons per set is 10. Please add more icons. The ideal icon set size is between 30 and 50 icons. This is large enough to offer the customer ample icons around a single topic, but small enough to not devalue icons. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
+        "description": "The minimum number of icons per set is 10. Please add more icons. The ideal icon set size is between 30 and 50 icons. This is large enough to offer the customer ample icons around a single topic, but small enough to not devalue icons. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements",
+        "autocheck": "too_few_icons"
     }, {
         "title": "Too many icons in set",
         "description": "The maximum number of icons per set is 250. We recommend to split the icons into two or more sets. The ideal icon set size is between 30 and 50 icons. This is large enough to offer the customer ample icons around a single topic, but small enough to not devalue icons. Remember you can group sets in families. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements",
