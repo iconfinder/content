@@ -154,5 +154,8 @@
     }, {
         "title": "Please do not ignore suggestions",
         "description": "Please do not ignore our requests for changes to your icons. Ignoring our recommendations wastes your time and ours and resubmitting the icons without changes will not achieve a different result. It risks getting the set rejected."
+    }, {
+        "title": "We accept only icons",
+        "description": "Please do not upload generic graphics. We can only accept icons. Icons are simplified, idealised, stylised images that represent an action, object, or idea. They should be easily recognisable in small sizes."
     }]
 }]
