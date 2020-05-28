@@ -100,10 +100,6 @@
         "description": "The maximum number of icons per set is 250. We recommend to split the icons into two or more sets. The ideal icon set size is between 30 and 50 icons. This is large enough to offer the customer ample icons around a single topic, but small enough to not devalue icons. Remember you can group sets in families. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements",
         "autocheck": "too_many_icons"
     }, {
-        "title": "No PNGs",
-        "description": "We only accept SVG (vector) icons. We are finding that customers are not downloading or buying PNG icons. We will accept PNG icon in special circumstances such as highly-rendered 3D icons but, in general, we no longer accept PNG icons. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements",
-        "autocheck": "is_raster"
-    }, {
         "title": "Too many tags",
         "description": "The ideal number of tags is between 4 and 7 per icon. If you have more than 7 tags, that will decrease the rank of the icon in the search results. Learn about tags here: http://support.iconfinder.com/en/articles/18163-tags",
         "autocheck": "too_many_tags"
