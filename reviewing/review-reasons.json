@@ -145,7 +145,7 @@
     "title": "Other",
     "reasons": [{
         "title": "Missing address information",
-        "description": "We are missing your address information and cannot approve your set without it. This information will be visible only to you and it will be used on your reciepts for icon sales. You can add it here: https://www.iconfinder.com/account/payment-settings",
+        "description": "We are missing your address information and cannot approve your set without it. This information will be visible only to you and it will be used on your receipts for icon sales. You can add it here: https://www.iconfinder.com/account/payment-settings",
         "autocheck": "sufficient_details"
     }, {
         "title": "Please do not ignore suggestions",
