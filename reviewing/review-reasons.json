@@ -101,7 +101,7 @@
         "autocheck": "too_many_icons"
     }, {
         "title": "Incorrect tags",
-        "description": "Please keep all your tags specific and relevant to what the icon depicts. Consider each tag individually, and ask yourself it it would make sense for your icon to appear if that word is searched. Read our tagging guidelines for more a detailed description of what’s required: https://support.iconfinder.com/en/articles/18163-tags"
+        "description": "Please keep all your tags specific and relevant to what the icon depicts. Consider each tag individually, and ask yourself it it would make sense for your icon to appear if that word is searched. Read our tagging guidelines for details: https://support.iconfinder.com/en/articles/18163-tags"
     }, {
         "title": "Too many tags",
         "description": "The ideal number of tags is between 4 and 7 per icon. If you have more than 7 tags, that will decrease the rank of the icon in the search results. Learn about tags here: http://support.iconfinder.com/en/articles/18163-tags",
@@ -112,7 +112,7 @@
         "autocheck": "too_few_tags"
     }, {
         "title": "No logos or other trademarked elements",
-        "description": "For legal reasons, we cannot sell icons that include company logos or trademarks such as those belonging to social media sites (Facebook, YouTube, Twitter) or banking and payment logos (Visa, MasterCard, PayPal). We can only accept them as free icons. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
+        "description": "For legal reasons, we cannot sell icons that include company logos or trademarks such as those belonging to social media sites (Facebook, YouTube, Twitter) or banking and payment logos (Visa, MasterCard, PayPal). We can only accept them as free icons. Check our technical requirements for icons: https://support.iconfinder.com/en/articles/4147363-logos-trademarks"
     }, {
         "title": "Not iconic, too many details",
         "description": "Icons are simplified, idealized, stylized images that represent an action, object, or idea. They should be easily recognisable in small sizes. An icon that has too many details makes the icon hard to use and not iconic. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
