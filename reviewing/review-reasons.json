@@ -100,6 +100,9 @@
         "description": "The maximum number of icons per set is 250. We recommend to split the icons into two or more sets. The ideal icon set size is between 30 and 50 icons. This is large enough to offer the customer ample icons around a single topic, but small enough to not devalue icons. Remember you can group sets in families. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements",
         "autocheck": "too_many_icons"
     }, {
+        "title": "Incorrect tags",
+        "description": "Please keep all your tags specific and relevant to what the icon depicts. Consider each tag individually, and ask yourself it it would make sense for your icon to appear if that word is searched. Read our tagging guidelines for more a detailed description of what’s required: https://support.iconfinder.com/en/articles/18163-tags"
+    }, {
         "title": "Too many tags",
         "description": "The ideal number of tags is between 4 and 7 per icon. If you have more than 7 tags, that will decrease the rank of the icon in the search results. Learn about tags here: http://support.iconfinder.com/en/articles/18163-tags",
         "autocheck": "too_many_tags"
