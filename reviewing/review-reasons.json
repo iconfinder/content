@@ -86,6 +86,9 @@
     "order": "6",
     "title": "Technical requirements",
     "reasons": [{
+        "title": "Upload in SVG format",
+        "description": "Please upload the icons in SVG format. We accept PNGs only as an exception for icons that cannot be exported as vector (for example, for highly-rendered 3D icons). Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
+    }, {
         "title": "No silhouettes",
         "description": "We do not accept artwork that is simply a literal silhouette of an object without creative interpretation. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
     }, {
