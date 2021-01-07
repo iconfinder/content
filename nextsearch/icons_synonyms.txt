@@ -1,0 +1,3 @@
+ipod, i-pod, i pod
+first, one, 1
+car, auto, automobile, vehicle
