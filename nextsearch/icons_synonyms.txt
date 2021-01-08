@@ -1,8 +1,16 @@
-ipod, i-pod, i pod
+# Synonym file for icons engine.
+
+# Blank lines and lines starting with pound are comments.
+
+# Equivalent synonyms may be separated with commas to give no
+# explicit mapping. Eg:
 1, first, one
 2, 2nd, second, two
 3, third, three
-# this is a comment, not included in the engine
-# this next line is a blank
-
 car, auto, automobile, vehicle
+
+# If a known words needs to explicitly be mapped to another one,
+# following format is used:
+i-pod, i pod => ipod
+
+
