@@ -13,4 +13,4 @@ car, auto, automobile, vehicle
 # following format is used:
 i-pod, i pod => ipod
 
-
+glyph, solid
