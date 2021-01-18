@@ -1,16 +1,606 @@
-# Synonym file for icons engine.
 
-# Blank lines and lines starting with pound are comments.
+# Brandnames
+pubg, playerunknown's battlegrounds
+mcd, mcdonald's, mcdonalds
+fbook, facebook, fb
+mozilla, firefox, mozilla firefox
+insta, instagram
+ms, microsoft
+cc, creativecloud, creative cloud
+Mercedes-Benz, mercedes, mercedesbenz, mercedes benz
+coca-cola, coca cola, cocacola, coke
+citi, citibank, citibank
+Amex, american express
+chrome, google chrome
+Disney plus, Disney+, Dinsey +, disneyplus
 
-# Equivalent synonyms may be separated with commas to give no
-# explicit mapping. Eg:
-1, first, one
-2, 2nd, second, two
-3, third, three
-car, auto, automobile, vehicle
+#Holidays
+New Year's Eve, Nye, newyears, new years, new year, newyearseve, new years eve
+Christmas, Xmas, x-mas
+Chinese New Year, Chinesenewyear
+Superbowl, super bowl
+Valentine Day, valentine's day, valentines day,valentinesday,
+Mardigras, mardi gras
+Saint Patricks day, Saint patrick's day, Saint patrick day, st patricks day, st patrick's dat, st patrick day, st. patrick's day, st. patricks day, st. patrick day
+Saint patrick, st patrick
+April fools day, april fool's day
+Oktoberfest, octoberfest
+Black friday, blackfriday
+Cyber monday, cybermonday
+Mother's day, mothersday, mothers day
+Father's day, fathersday, fathers day
+Independence Day, July 4, July 4th
 
-# If a known words needs to explicitly be mapped to another one,
-# following format is used:
-i-pod, i pod => ipod
+# Acronyms
+diy, do it yourself
+asap, as soon as possible
+min, minute
+eta, estamited time of arrival
+misc., misc, miscellaneous
+mr., mr, mr, mister
+ms., ms, miss
+dr., dr, doctor
+vs.,vs, versus
+lol, laughing out loud
+fyi, for your information
+faq, frequently asked questions
+rip, rest in peace
+IQ, intelligence
+sos, save our ship
+MIA, missing in action
+brb, be right back
+omg, oh my god
+btw, by the way
+VIP, very important person
+AI, artificial intelligence
 
-glyph, solid
+#Symbols
+~, tilde
+!, exclamation mark, exlamation point
+@, at
+#, hashtag
+$, dollar sign
+%, percent, percentage
+^, caret
+&, ampersand
+*, asterisk
+(,),parantheses, ()
++, plus, plus sign, add
+-, minus, minus sign
+=, equal, equal sign
+:, colon
+;, semi colon, semicolon
+", quote, quotation, quotation mark
+', apostrophe
+?, question mark, question
+/, slash
+., period
+,, comma
+q&a, Q and A, questions and answers, question and answer, qna
+g-mail, gmail
+e-mail, email
+social-media, socialmedia, social media
+
+# Most popular searches
+phone, telephone, call, calling
+home, house, residence
+email, e-email
+money, cash, pay, payment, $
+bill, receipt
+people, crowd
+download, downloading
+check, checkmark, check mark
+computer, pc, laptop
+mail => e-mail
+mail => email
+email, e-mail
+person => man, male
+person => woman, female
+person, human
+Car, vehicle, automobile
+man, male, boy, guy
+woman, female, girl
+calendar, dates, date
+food, meal
+food => eat
+social media, socialmedia, social-media
+web, internet
+time, clock
+website, webpage, site
+delete, trash
+lock, secure, locked
+school, university, education
+profile, user
+mobile, mobile phone
+cart, shopping cart, grocery cart
+game => video game
+game => board game
+game, games
+plus, +, add
+chat, chit chat
+list, checklist, todo list, to do list, to-do list
+building => apartment building
+building => office building
+message => letter
+message => mail
+message => email
+message => text message
+eye, eyeball
+contact, message
+database, data base
+login, log in
+internet, wifi
+shop, shopping
+pdf, pdf file
+tick, check
+image, picture
+app, application
+help, helping
+avatar, user
+love, heart
+find, search, zoom
+team, teammates, teamwork
+idea => new idea
+travel, tourism
+mask, facemask, face mask
+family => siblings
+family => parents
+family => grandparents
+shopping, shop, buy, purchase
+communication, communicate
+truck, lorry
+bank, banking
+pet => dog
+dog, puppy
+world, earth, globe
+water, water drop
+warning, caution, alert, error
+exit, logout
+support => customer support
+ok, okay
+wifi, wi-fi
+cat, kitty
+santa, santa claus, santaclaus
+sun, sunshine
+coronavirus, corona virus, corona-virus, covid, covid19, covid 19, covid-19
+fire, flames
+photo, photograph
+gift, present, gifts, presents
+flag, nation
+notification, notify
+paper => lined paper
+paper, document
+graph => line graph
+graph, chart, report
+target, aim
+teacher, professor, teachers, professors
+movie, film, movies, films
+tv, television
+finance, business
+process, cycle, flow
+trash, empty
+mouse, computer mouse, mice
+light, lightbulb, light bulb
+meeting, group meeting, team meeting
+tools, tool
+send, delivery, deliver, sending
+note, notes
+stop, stop sign
+happy, cheerful, glad, smile
+bag, bags
+bag => shopping bag
+bag, purse
+bag => backpack
+bag => briefcase
+logout, log out
+baby, infant, newborn
+talk, chat, talking
+leaf, leaves
+sport, sports
+plane, planes, airplane, airplanes
+robot, robots
+card => credit card
+card => id
+card => id card
+books, book, read, reading
+cancel, close
+test, exam
+factory, manufacture, manufactoring
+history
+handshake, hand shake
+smartphone => iphone
+law, legal, judicial, justice
+construction
+code, coding
+iphone, i phone, i-phone
+update, refresh
+word, microsoft word
+print, printer
+bus, busses
+microphone, mic
+rocket, rockets, spaceship, spaceships, spaceshuttle
+sales, sale
+price, price tag
+plant, plants
+training, train
+button, buttons
+dollar, dollar bill, 
+speaker, loud speaker
+
+# Countries & locations
+nyc, new york city
+NY, new york
+america => south america
+america => north america
+USA, U.S.A, United states of america, U.S.
+UK, united kingdom
+aussie, australia
+GB, great britain, greatbritain
+AF, Afghanistan
+AL, Albania
+DZ, Algeria
+AX, Aland Islands
+AD, Andorra
+AO, Angola
+AG, Antigua
+AQ, Antarctica
+AR, Argentina
+AM, Armenia
+AU, Australia
+AW, Aruba
+AZ, Azerbaijan
+BA, Bosnia
+BB, Barbados
+BD, Bangladesh
+BE, Belgium
+BF, Burkina Faso
+BG, Bulgaria
+BH, Bahrain
+BI, Burundi
+BJ, Benin
+BM, Bermuda
+BN, Brunei Darussalam
+BO, Bolivia
+BR, Brazil
+BS, Bahamas
+BT, Bhutan
+BV, Bouvet Island
+BW, Botswana
+BV, Belarus
+BZ, Belize
+KH, Cambodia
+CM, Cameroon
+CA, Canada
+CV, Cape Verde
+CF, Central African Republic
+TD, Chad
+CL, Chile
+CN, China
+CX, Christmas Island
+CC, Cocos Islands
+CO, Colombia
+CG, Congo
+CI, Ivory Coast
+CK, Cook Islands
+CR, Costa Rica
+CU, Cuba
+CY, Cyprus
+CZ, Czech Republic
+CD, Democratic Republic of the Congo
+DJ, Djibouti
+DK, Denmark
+DM, Dominica
+DO, Dominican Republic
+EC, Ecuador
+EG, Egypt
+SV, El Salvador
+TP, East Timor
+EE, Estonia
+GQ, Equatorial Guinea
+ER, Eritrea
+ET, Ethiopia
+FI, Finland
+FJ, Fiji
+FK, Falkland Islands, Malvinas
+FM, Federated States of Micronesia
+FO, Faroe Islands
+FR, France
+GF, French Guiana
+PF, French Polynesia
+GA, Gabon
+GM, Gambia
+DE, Germany
+GH, Ghana
+GI, Gibraltar
+GD, Grenada
+GE, Georgia
+GR, Greece
+GL, Greenland
+GN, Guinea
+GP, Guadeloupe
+GT, Guatemala
+GU, Guam
+GW, Guinea-Bissau
+GY, Guyana
+HK, Hong Kong
+HM, Heard Island
+HN, Honduras
+HT, Haiti
+HU, Hungary
+ID, Indonesia
+IE, Ireland
+IL, Israel
+IN, India
+IO, British Indian Ocean Territory
+IQ, Iraq
+IR, Iran
+IT, Italy
+JM, Jamaica
+JO, Jordan
+JP, Japan
+KE, Kenya
+KG, Kyrgyzstan
+KI, Kiribati
+KM, Comoros
+KN, Saint Kitts and Nevis
+KP, North Korea 
+KR, South Korea
+KW, Kuwait
+KY, Cayman Islands
+KZ, Kazakhstan
+LA, Laos
+LB, Lebanon
+LC, Saint Lucia
+LI, Liechtenstein
+LK, Sri Lanka
+LR, Liberia
+LS, Lesotho
+LT, Lithuania
+LU, Luxembourg
+LV, Latvia
+LY, Libya
+MK, Macedonia
+MO, Macao
+MG, Madagascar
+MY, Malaysia
+ML, Mali
+MW, Malawi
+MH, Marshall Islands
+MQ, Martinique
+MU, Mauritius
+YT, Mayotte
+MT, Malta
+MX, Mexico
+MA, Morocco
+MC, Monaco
+MD, Moldova
+MN, Mongolia
+MM, Myanmar
+MP, Northern Mariana Islands
+MV, Maldives
+MZ, Mozambique
+NA, Namibia
+NC, New Caledonia
+NE, Niger
+NF, Norfolk Island
+NG, Nigeria
+NI, Nicaragua
+NL, Netherlands
+NP, Nepal
+NR, Nauru
+NU, Niue
+NZ, New Zealand
+OM, Oman
+PA, Panama
+PE, Peru
+PG, Papua New Guinea
+PH, Philippines
+PK, Pakistan
+PL, Poland
+PM, Saint Pierre, Miquelon
+CS, Serbia, Montenegro
+PN, Pitcairn
+PR, Puerto Rico
+PS, Palestinian
+PT, Portugal
+PW, Palau
+PY, Paraguay
+QA, Qatar
+RE, Reunion
+RO, Romania
+RU, Russia
+RW, Rwanda
+SA, Saudi Arabia
+WS, Samoa
+SH, Saint Helena
+VC, Saint Vincent, Grenadines
+SM, San Marino
+ST, Sao Tome, Principe
+SN, Senegal
+SC, Seychelles
+SL, Sierra Leone
+SG, Singapore
+SK, Slovakia
+SI, Slovenia
+SB, Solomon Islands
+SO, Somalia
+ZA, South Africa
+ES, Spain
+SD, Sudan
+SR, Suriname
+SJ, Svalbard, Jan Mayen
+SE, Sweden
+CH, Switzerland
+SY, Syria
+SZ, Swaziland
+TW, Taiwan
+TZ, Tanzania
+TJ, Tajikistan
+TH, Thailand
+TL, Timor-Leste
+TG, Togo
+TK, Tokelau
+TO, Tonga
+TT, Trinidad, Tobago
+TN, Tunisia
+TR, Turkey
+TM, Turkmenistan
+TC, Turks and Caicos Islands
+TV, Tuvalu
+UA, Ukraine
+UG, Uganda
+AE, United Arab Emirates
+UK, United Kingdom
+UY, Uruguay
+UZ, Uzbekistan
+VU, Vanuatu
+VA, Vatican City State
+VE, Venezuela
+VI, Virgin Islands
+VN, Vietnam
+WF, Wallis, Futuna
+EH, Western Sahara
+YE, Yemen
+YU, Yugoslavia
+ZM, Zambia
+ZR, Zaire
+ZW, Zimbabwe
+
+
+
+# Numbers
+1, one
+2, two
+3, three
+4, four
+5, five
+6, six
+7, seven
+8, eight
+9, nine
+10, ten, 
+11, eleven
+12, twelve
+13, thirteen
+14, fourteen
+15, fifteen
+16, sixteen
+17, seventeen
+18, eighteen
+19, nineteen
+20, twenty
+21, twentyone, twenty one
+22, twentytwo, twenty two
+23, twentythree, twenty three
+24, twentyfour, twenty four
+25, twentyfive, twenty five
+26, twentysix, twenty six
+27, twentyseven, twenty seven
+28, twentyeight, twenty eight
+29, twentynine, twenty nine
+30, thirty
+31, thirtyone, thirty one
+32, thirtytwo, thirty two
+33, thirtythree, thirty three
+34, thirtyfour, thirty four
+35, thirtyfive, thirty five
+36, thirtysix, thirty six
+37, thirtyseven, thirty seven
+38, thirtyeight, thirty eight
+39, thirtynine, thirty nine
+40, forty
+41, fortyone, forty one
+42, fortytwo, forty two
+43, fortythree, forty three
+44, fortyfour, forty four
+45, fortyfive, fourty five
+46, fortysix, forty six
+47, fortyseven, forty seven
+48, fortyeight, forty eight
+49, fortynine, forty nine
+50, fifty
+51, fiftyone, fifty one
+52, fiftytwo, fifty two
+53, fiftythree, fifty three
+54, fiftyfour, fifty four
+55, fiftyfive, fifty five
+56, fiftysix, fifty six
+57, fiftyseven, fifty seven
+58, fiftyeight, fifty eight
+59, fiftynine, fifty nine
+60, sixty 
+61, sixtyone, sixty one
+62, sixtytwo, sixty two
+63, sixtythree, sixty three
+64, sixtyfour, sixty four
+65, sixtyfive, sixty five
+66, sixtysix, sixty sis
+67, sixtyseven, sixty seven
+68, sixtyeight, sixty eight
+69, sixtynine, sixty nine
+70, seventy
+71, seventyone, seventy one
+72, seventytwo, seventy two
+73, seventythree, seventy three
+74, seventyfour, seventy four
+75, seventyfive, seventy five
+76, seventysix, seventy six
+77, seventyseven, seventy seven
+78, seventyeight, seventy eight
+79, seventynine, seventy nine
+80, eighty
+81, eightyone, eighty one
+82, eightytwo, eighty two
+83, eightythree, eighty three
+84, eightyfour, eighty four
+85, eightyfive, eighty five
+86, eightysix, eighty six
+87, eightyseven, eighty seven
+88, eightyeight, eighty eight
+89, eightynine, eighty nine
+90, ninety
+91, ninetyone, ninety one
+92, ninetytwo, ninety two
+93, ninetythree, ninety three
+94, ninetyfour, ninety four
+95, ninetyfive, ninety five
+96, ninetysix, ninety six
+97, ninetyseven, ninety seven
+98, ninetyeight, ninety eight
+99, ninetynine, ninety nine
+100, onehundred, one hundred
+150, onehundredfifty, one hundred fifty
+200, two hundred, twohundred
+300, threehundred, three hundred
+400, fourhundred, four hundred
+500, fivehundred, five hundred
+600, sixhundred, six hundred
+700, sevenhundred, seven hundred
+800, eighthundred, eight hundred
+900, ninehundred, nine hundred
+1000, onethousand, one thousand
+1500, one thousand five hundred, onethousandfivehundred
+2000, 2k, twothousand, two thousand
+3000, 3k, threethousand, three thousand
+4000, 4k, fourthousand, four thousand
+5000, 5k, fivethousand, five thousand
+10000, 10k, tenthousand, ten thousand
+25000, 25k, twenty fivethousand, twentyfivethousand
+50000, 50k,fiftythousand, fifty thousand
+75000, 75k, seventyfivethousand, seventy five thousand
+100,000, 100k, onehundredthousand, one hundred thousand
+500,000, 500k, fivehundredthousand, five hundred thousand
+1,000,000, one million, onemillion
+
+#Abbreviations
+cell, cellphone, cell phone
+vocab, vocabulary
+limo, limousine
+veggie, veggies, vegetable
+pic, picture
+meds, medication, medicine
+congrats, congratulations
+info, information
+lab, laboratory
+uni, university
+pc, computer
