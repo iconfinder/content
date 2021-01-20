@@ -224,7 +224,7 @@ price, price tag
 plant, plants
 training, train
 button, buttons
-dollar, dollar bill, 
+dollar, dollar bill
 speaker, loud speaker
 
 # Countries & locations
