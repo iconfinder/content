@@ -53,6 +53,7 @@ omg, oh my god
 btw, by the way
 VIP, very important person
 AI, artificial intelligence
+VR, virtual reality
 
 #Symbols
 ~, tilde
