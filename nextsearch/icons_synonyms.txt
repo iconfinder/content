@@ -176,7 +176,7 @@ graph, chart, report
 target, aim
 teacher, professor, teachers, professors
 movie, film, movies, films
-tv, television, 
+tv, television
 finance, business
 process, cycle, flow
 trash, empty
