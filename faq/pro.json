@@ -1,0 +1,19 @@
+[{
+    "question": "Does the subscription auto-renew?",
+    "answer": "Yes, the subscription is automatically renewed every month or year, depending on the billing you have chosen, and it is charged from the credit card saved on your account."
+}, {
+    "question": "Can I cancel at any time?",
+    "answer": "Yes, you may cancel the subscription from your account settings. The subscription will remain valid until the last date of your billing cycle, but will not renew."
+}, {
+    "question": "Can I change to another subscription plan if my icon needs change?",
+    "answer": "Yes, you can do that yourself from your account settings. Changing to a larger plan becomes effective immediately, whereas moving to a smaller plan takes effect the day the subscription renews."
+}, {
+    "question": "Will I lose the downloads that I didn't use during the month?",
+    "answer": "No. Your unused downloads will roll over to the next month, so you can use them later. You can accumulate downloads for up to 6 months."
+}, {
+    "question": "Can I pause my subscription if I don't need icons for some time?",
+    "answer": "Yes, you can pause your subscription for 1 month and up to 6 months. During the pause period, you cannot make downloads and will not be billed."
+}, {
+    "question": "What license covers the icons?",
+    "answer": "All premium icons are covered by the Basic License, which allows commercial use without attribution."
+}]
