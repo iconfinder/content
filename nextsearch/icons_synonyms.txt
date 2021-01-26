@@ -15,7 +15,7 @@ chrome, google chrome
 Disney plus, Disney+, Dinsey +, disneyplus
 
 #Holidays
-New Year's Eve, Nye, newyears, new years, new year, newyearseve, new years eve
+New Year's Eve, nye, newyearseve, new years eve
 Christmas, Xmas, x-mas
 Chinese New Year, Chinesenewyear
 Superbowl, super bowl
@@ -592,6 +592,12 @@ ZW, Zimbabwe
 100,000, 100k, onehundredthousand, one hundred thousand
 500,000, 500k, fivehundredthousand, five hundred thousand
 1,000,000, one million, onemillion
+1%, 1 %, one percent
+25%, 25 %, twentyfive percent
+50%, 50 %, 50 percent
+75%, 75 %, 75 percent
+100%, 100 %, 100 percent
+
 
 #Abbreviations
 cell, cellphone, cell phone
