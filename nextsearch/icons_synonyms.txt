@@ -19,7 +19,7 @@ New Year's Eve, Nye, newyears, new years, new year, newyearseve, new years eve
 Christmas, Xmas, x-mas
 Chinese New Year, Chinesenewyear
 Superbowl, super bowl
-Valentine Day, valentine's day, valentines day,valentinesday,
+Valentine Day, valentine's day, valentines day, valentinesday,
 Mardigras, mardi gras
 Saint Patricks day, Saint patrick's day, Saint patrick day, st patricks day, st patrick's dat, st patrick day, st. patrick's day, st. patricks day, st. patrick day
 Saint patrick, st patrick
@@ -29,13 +29,13 @@ Black friday, blackfriday
 Cyber monday, cybermonday
 Mother's day, mothersday, mothers day
 Father's day, fathersday, fathers day
-Independence Day, July 4, July 4th
+Independence Day, July 4, July 4th, fourth of july
 
 # Acronyms
 diy, do it yourself
 asap, as soon as possible
 min, minute
-eta, estamited time of arrival
+eta, estimated time of arrival
 misc., misc, miscellaneous
 mr., mr, mr, mister
 ms., ms, miss
@@ -85,7 +85,7 @@ social-media, socialmedia, social media
 # Most popular searches
 phone, telephone, call, calling
 home, house, residence
-email, e-email
+email, e-mail
 money, cash, pay, payment, $
 bill, receipt
 people, crowd
@@ -160,14 +160,14 @@ exit, logout
 support => customer support
 ok, okay
 wifi, wi-fi
-cat, kitty
+cat, kitty, kitten
 santa, santa claus, santaclaus
 sun, sunshine
 coronavirus, corona virus, corona-virus, covid, covid19, covid 19, covid-19
 fire, flames
-photo, photograph
+photo, photograph, picture
 gift, present, gifts, presents
-flag, nation
+flag, nation, flag, nations
 notification, notify
 paper => lined paper
 paper, document
@@ -176,12 +176,12 @@ graph, chart, report
 target, aim
 teacher, professor, teachers, professors
 movie, film, movies, films
-tv, television
+tv, television, 
 finance, business
 process, cycle, flow
 trash, empty
 mouse, computer mouse, mice
-light, lightbulb, light bulb
+light, lightbulb, light bulb, lamp
 meeting, group meeting, team meeting
 tools, tool
 send, delivery, deliver, sending
@@ -207,11 +207,9 @@ books, book, read, reading
 cancel, close
 test, exam
 factory, manufacture, manufactoring
-history
 handshake, hand shake
 smartphone => iphone
 law, legal, judicial, justice
-construction
 code, coding
 iphone, i phone, i-phone
 update, refresh
@@ -289,17 +287,17 @@ CY, Cyprus
 CZ, Czech Republic
 CD, Democratic Republic of the Congo
 DJ, Djibouti
+DO => Dominican Republic
 DK, Denmark
 DM, Dominica
-DO, Dominican Republic
 EC, Ecuador
 EG, Egypt
 SV, El Salvador
 TP, East Timor
 EE, Estonia
 GQ, Equatorial Guinea
-ER, Eritrea
-ET, Ethiopia
+ER => Eritrea
+ET => Ethiopia
 FI, Finland
 FJ, Fiji
 FK, Falkland Islands, Malvinas
@@ -328,19 +326,19 @@ HM, Heard Island
 HN, Honduras
 HT, Haiti
 HU, Hungary
-ID, Indonesia
+ID => Indonesia
 IE, Ireland
 IL, Israel
 IN, India
 IO, British Indian Ocean Territory
-IQ, Iraq
+IQ => Iraq
 IR, Iran
-IT, Italy
+IT => Italy
 JM, Jamaica
 JO, Jordan
 JP, Japan
 KE, Kenya
-KG, Kyrgyzstan
+KG => Kyrgyzstan
 KI, Kiribati
 KM, Comoros
 KN, Saint Kitts and Nevis
@@ -350,7 +348,7 @@ KW, Kuwait
 KY, Cayman Islands
 KZ, Kazakhstan
 LA, Laos
-LB, Lebanon
+LB => Lebanon
 LC, Saint Lucia
 LI, Liechtenstein
 LK, Sri Lanka
@@ -374,7 +372,7 @@ MT, Malta
 MX, Mexico
 MA, Morocco
 MC, Monaco
-MD, Moldova
+MD => Moldova
 MN, Mongolia
 MM, Myanmar
 MP, Northern Mariana Islands
@@ -399,10 +397,11 @@ PH, Philippines
 PK, Pakistan
 PL, Poland
 PM, Saint Pierre, Miquelon
-CS, Serbia, Montenegro
+CS => Serbia, 
+ME => Montenegro
 PN, Pitcairn
-PR, Puerto Rico
-PS, Palestinian
+PR => Puerto Rico
+PS => palestine
 PT, Portugal
 PW, Palau
 PY, Paraguay
@@ -416,7 +415,8 @@ WS, Samoa
 SH, Saint Helena
 VC, Saint Vincent, Grenadines
 SM, San Marino
-ST, Sao Tome, Principe
+ST => Sao Tome 
+ST => Principe
 SN, Senegal
 SC, Seychelles
 SL, Sierra Leone
@@ -441,13 +441,13 @@ TH, Thailand
 TL, Timor-Leste
 TG, Togo
 TK, Tokelau
-TO, Tonga
+TO => Tonga
 TT, Trinidad, Tobago
 TN, Tunisia
 TR, Turkey
 TM, Turkmenistan
 TC, Turks and Caicos Islands
-TV, Tuvalu
+TV => Tuvalu
 UA, Ukraine
 UG, Uganda
 AE, United Arab Emirates
