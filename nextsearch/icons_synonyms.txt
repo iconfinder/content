@@ -288,7 +288,7 @@ CZ, Czech Republic
 CD, Democratic Republic of the Congo
 DJ, Djibouti
 DO => Dominican Republic
-DK, Denmark
+DK, Denmark, Danmark
 DM, Dominica
 EC, Ecuador
 EG, Egypt
