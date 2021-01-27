@@ -611,3 +611,4 @@ info, information
 lab, laboratory
 uni, university
 pc, computer
+rpg, role playing game, role-playing game
