@@ -19,7 +19,7 @@ New Year's Eve, nye, newyearseve, new years eve
 Christmas, Xmas, x-mas
 Chinese New Year, Chinesenewyear
 Superbowl, super bowl
-Valentine Day, valentine's day, valentines day, valentinesday,
+Valentine Day, valentine's day, valentines day, valentinesday, Valentine, valentines
 Mardigras, mardi gras
 Saint Patricks day, Saint patrick's day, Saint patrick day, st patricks day, st patrick's dat, st patrick day, st. patrick's day, st. patricks day, st. patrick day
 Saint patrick, st patrick
@@ -154,9 +154,9 @@ bank, banking
 pet => dog
 dog, puppy
 world, earth, globe
-water, water drop
+water, water drop, water droplets
 warning, caution, alert, error
-exit, logout
+exit, logout, log out
 support => customer support
 ok, okay
 wifi, wi-fi
