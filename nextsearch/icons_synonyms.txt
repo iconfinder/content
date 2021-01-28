@@ -54,6 +54,7 @@ btw, by the way
 VIP, very important person
 AI, artificial intelligence
 VR, virtual reality
+IOT, internet of things
 
 #Symbols
 ~, tilde
