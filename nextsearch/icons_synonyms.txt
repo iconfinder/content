@@ -85,6 +85,11 @@ e-mail, email
 social-media, socialmedia, social media
 24/7, twenty four seven, twentyfour seven
 18+, 18 +, 18 plus
+.pdf, pdf
+.svg, svg
+.jpeg, .jpg, jpeg, jpg
+.doc, .docx, doc, docx
+.tiff, tiff
 
 # Most popular searches
 phone, telephone, call, calling
@@ -626,3 +631,4 @@ uni, university
 pc, computer
 rpg, role playing game, role-playing game
 xxx, explixcit
+ppt, pptx, powerpoint
