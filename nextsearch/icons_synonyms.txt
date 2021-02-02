@@ -55,6 +55,7 @@ VIP, very important person
 AI, artificial intelligence
 VR, virtual reality
 IOT, internet of things
+24/7, twentyfour seven
 
 #Symbols
 ~, tilde
@@ -82,6 +83,8 @@ q&a, Q and A, questions and answers, question and answer, qna
 g-mail, gmail
 e-mail, email
 social-media, socialmedia, social media
+24/7, twenty four seven, twentyfour seven
+18+, 18 +, 18 plus
 
 # Most popular searches
 phone, telephone, call, calling
@@ -234,7 +237,6 @@ tradesperson => plumber
 tradesperson => electrician
 tradesperson => construction worker
 tradesperson => contractor
-18+, 18 +, 18 plus
 
 
 # Countries & locations
