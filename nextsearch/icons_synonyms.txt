@@ -242,6 +242,7 @@ tradesperson => plumber
 tradesperson => electrician
 tradesperson => construction worker
 tradesperson => contractor
+hashtag, hash tag
 
 
 # Countries & locations
