@@ -226,6 +226,16 @@ training, train
 button, buttons
 dollar, dollar bill
 speaker, loud speaker
+tradesperson, tradesman
+tradesperson => construction worker
+tradesperson => industrial worker
+tradesperson => technician
+tradesperson => plumber
+tradesperson => electrician
+tradesperson => construction worker
+tradesperson => contractor
+18+, 18 +, 18 plus
+
 
 # Countries & locations
 nyc, new york city
@@ -613,3 +623,4 @@ lab, laboratory
 uni, university
 pc, computer
 rpg, role playing game, role-playing game
+xxx, explixcit
