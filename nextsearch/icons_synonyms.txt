@@ -189,7 +189,7 @@ tv, television
 finance, business
 process, cycle, flow
 trash, empty
-mouse, computer mouse, mice
+mouse, mice
 light, lightbulb, light bulb, lamp
 meeting, group meeting, team meeting
 tools, tool
