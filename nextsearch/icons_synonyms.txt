@@ -243,6 +243,7 @@ tradesperson => electrician
 tradesperson => construction worker
 tradesperson => contractor
 hashtag, hash tag
+eye, vision, sight, see
 
 
 # Countries & locations
