@@ -244,6 +244,18 @@ tradesperson => construction worker
 tradesperson => contractor
 hashtag, hash tag
 eye, vision, sight, see
+sextoy, sex toy
+horseshoe, horse shoe
+user experience, userexperience
+hotdog, hot dog
+user interface, ui, user interface
+santa hat, santahat
+santa claus, santaclaus
+icecream, ice cream
+highschool, highschool
+socialmedia, social media
+graphicdesign, graphic design
+schoolbus, school bus
 
 
 # Countries & locations
