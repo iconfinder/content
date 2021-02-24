@@ -253,7 +253,8 @@ highschool, highschool
 socialmedia, social media
 graphicdesign, graphic design
 schoolbus, school bus
-
+webdesign, web design
+appstore, app store
 
 # Countries & locations
 nyc, new york city
