@@ -541,16 +541,16 @@ ZW, Zimbabwe
 37, thirtyseven, thirty seven
 38, thirtyeight, thirty eight
 39, thirtynine, thirty nine
-40, forty
-41, fortyone, forty one
-42, fortytwo, forty two
-43, fortythree, forty three
-44, fortyfour, forty four
-45, fortyfive, fourty five
-46, fortysix, forty six
-47, fortyseven, forty seven
-48, fortyeight, forty eight
-49, fortynine, forty nine
+40, forty, fourty
+41, fortyone, forty one, fourtyone, fourty one
+42, fortytwo, forty two, fourtytwo, fourty two
+43, fortythree, forty three, fourty three, fourtythree
+44, fortyfour, forty four, fourtyfour, fourty four
+45, fortyfive, fourty five, fourtyfive, fourty five
+46, fortysix, forty six, fourtysix, fourty six
+47, fortyseven, forty seven, fourtyseven, fourty seven
+48, fortyeight, forty eight, fourtyeight, fourty eight
+49, fortynine, forty nine, fourtynine, fourty nine
 50, fifty
 51, fiftyone, fifty one
 52, fiftytwo, fifty two
