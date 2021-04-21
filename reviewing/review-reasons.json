@@ -51,7 +51,10 @@
         "description": "The background shapes do not add value to these icons. In that case, it is better not to use them. Each component of an icon should have a purpose. If there is no clear purpose for the background shapes, it is better not to use them - sometimes they can reduce the usability of the icons and hurt sales. Read about business relevance: http://support.iconfinder.com/en/articles/2533515-business-relevance and about variations: http://support.iconfinder.com/en/articles/2611383-variations"
     }, {
         "title": "Lack of uniqueness",
-        "description": "These icons will have a hard time selling on Iconfinder as there is little that is unique about them, and many similar icon sets in this style and topic already exist. Make sure your icons stand out from the rest, and bring something new to customers. Try to search these icon’s tags on Iconfinder to see what existing content we already sell, and re-submit a set that’s fresh and different from what customers can already purchase."
+        "description": "These icons will have a hard time selling on Iconfinder as there is little that is unique about them, and many similar sets in this style and/or topic already exist. Make sure your icons stand out from the rest, and bring something new to customers. Try to search these icon’s tags on Iconfinder to see what existing content we already sell, and re-submit a set that’s fresh and different from what customers can already purchase."
+    }, {
+        "title": "Low business value",
+        "description": "These icons will have a hard time selling as there is little need for these concepts and design choices. Please make sure all icons are considered relevant and useful, and can fulfill various needs and by users."
     }, {
         "title": "Oversupply of icons in this style",
         "description": "The market for icons in this style is saturated and very competitive. That is why we can only accept icons of high quality, that can stand out and catch customers’ attention. Your icons need more work to become distinguished among all the other icons in this style. Read about business relevance: http://support.iconfinder.com/en/articles/2533515-business-relevance and about uniqueness: http://support.iconfinder.com/en/articles/2546060-uniqueness"
@@ -81,6 +84,9 @@
     }, {
         "title": "Style conversions",
         "description": "Directly transforming icons from one style to another is not a good practice and usually ends up with icons that don’t look right. Each set of icons needs needs to be rethought for each individual style and designed accordingly. Read more about style conversions: http://support.iconfinder.com/en/articles/4062490-directly-converted-glyphs"
+    }, {
+         "title": "Icons not thorough",
+        "description": "This set feels rushed, has too many repetitive or basic elements, and lacks the attention to details that we require. Please spend more time to make sure that each individual icon is constructed carefully and thoroughly. "
     }, {
         "title": "Text on icons",
         "description": "In general, try to avoid using text on icons. Text can limit their usability. If you really need to use text, then make sure it matches the style of the icons. Read more about quality: http://support.iconfinder.com/en/articles/2549020-quality-standards"
