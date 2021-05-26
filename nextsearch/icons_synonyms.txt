@@ -258,6 +258,8 @@ webdesign, web design
 appstore, app store
 sixpack, six pack
 eightpack, eight pack
+Palestine, Gaza
+
 
 # Countries & locations
 nyc, new york city
