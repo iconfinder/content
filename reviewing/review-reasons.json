@@ -116,11 +116,11 @@
         "description": "Please keep all your tags specific and relevant to what the icon depicts. Consider each tag individually, and ask yourself it it would make sense for your icon to appear if that word is searched. Read our tagging guidelines for details: https://support.iconfinder.com/en/articles/18163-tags"
     }, {
         "title": "Too many tags",
-        "description": "The ideal number of tags is between 4 and 7 per icon. If you have more than 7 tags, that will decrease the rank of the icon in the search results. Learn about tags here: http://support.iconfinder.com/en/articles/18163-tags",
+        "description": "The ideal number of tags is between 4 and 9 per icon. If you have more than 9 tags, that will decrease the rank of the icon in the search results. Learn about tags here: http://support.iconfinder.com/en/articles/18163-tags",
         "autocheck": "too_many_tags"
     }, {
         "title": "Too few tags",
-        "description": "The ideal number of tags is between 4 and 7 per icon. If it makes sense to have less than 4 tags, that is ok. If you have more than 7 tags, that will decrease the rank of the icon in the search results. Learn about tags here: http://support.iconfinder.com/en/articles/18163-tags",
+        "description": "The ideal number of tags is between 4 and 9 per icon. If it makes sense to have less than 4 tags, that is ok. If you have more than 9 tags, that will decrease the rank of the icon in the search results. Learn about tags here: http://support.iconfinder.com/en/articles/18163-tags",
         "autocheck": "too_few_tags"
     }, {
         "title": "No logos or other trademarked elements",
