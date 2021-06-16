@@ -31,8 +31,6 @@ Mother's day, mothersday, mothers day
 Father's day, fathersday, fathers day
 Independence Day, July 4, July 4th, fourth of july
 Ramadan, Ramazan, Ramzan, Ramadhan, Ramathan
-Father, dad
-Mother, mom
 
 # Acronyms
 diy, do it yourself
@@ -244,7 +242,7 @@ tradesperson => electrician
 tradesperson => construction worker
 tradesperson => contractor
 hashtag, hash tag
-eye, vision, sight, see
+eye, vision, sight, see, look
 sextoy, sex toy
 horseshoe, horse shoe
 user experience, userexperience
@@ -252,7 +250,7 @@ hotdog, hot dog
 user interface, ui, user interface
 santa hat, santahat
 icecream, ice cream
-highschool, highschool
+highschool, high school
 socialmedia, social media
 graphicdesign, graphic design
 schoolbus, school bus
@@ -261,6 +259,9 @@ appstore, app store
 sixpack, six pack
 eightpack, eight pack
 Palestine, Gaza
+West Bank, the west bank
+Father, dad
+Mother, mom
 
 
 # Countries & locations
@@ -649,5 +650,5 @@ lab, laboratory
 uni, university
 pc, computer
 rpg, role playing game, role-playing game
-xxx, explixcit
+xxx, explicit
 ppt, pptx, powerpoint
