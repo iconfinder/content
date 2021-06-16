@@ -31,6 +31,8 @@ Mother's day, mothersday, mothers day
 Father's day, fathersday, fathers day
 Independence Day, July 4, July 4th, fourth of july
 Ramadan, Ramazan, Ramzan, Ramadhan, Ramathan
+Father, dad
+Mother, mom
 
 # Acronyms
 diy, do it yourself
