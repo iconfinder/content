@@ -3,170 +3,177 @@
     "title": "Consistency",
     "reasons": [{
         "title": "Inconsistent style",
-        "description": "All icons in a set need to be in the same style. Icons in a single set should be all glyph, all line, all flat, etc. Please update this set to be in a consistent design style or split it into different sets grouped by style. Read more about consistency: http://support.iconfinder.com/en/articles/2548775-consistency"
+        "description": "All icons or illustrations in a set need to be in the same style. Items in a single set should be all glyph, all line, all flat, etc. Please update this set to be in a consistent design style or split it into different sets grouped by style. Read more about consistency: http://support.iconfinder.com/en/articles/2548775-consistency"
     }, {
         "title": "Inconsistent sizes",
-        "description": "All icons in a set need to have the same size and have the same visual volume. Please use the same size artboard for all icons and also fit all icons to the artboard. More information about artboards: http://support.iconfinder.com/en/articles/18154-artboards-and-icon-templates. Read more about consistency: http://support.iconfinder.com/en/articles/2548775-consistency"
+        "description": "All icons or illustrations in a set need to have the same size and have the same visual volume. Please use the same size artboard for all icons or illustrations and also fit all of them to the artboard. More information about artboards: http://support.iconfinder.com/en/articles/18154-artboards-and-icon-templates. Read more about consistency: http://support.iconfinder.com/en/articles/2548775-consistency"
     }, {
         "title": "Inconsistent line weight",
-        "description": "All icons in a set need to have matching line weights. Having an icon with thin strokes and other icons with thick strokes makes the set become inconsistent. Please also check that the artboards are the same size for all icons. Read more about consistency: http://support.iconfinder.com/en/articles/2548775-consistency"
+        "description": "All icons or illustrations in a set need to have matching line weights. Having an item with thin strokes and other items with thick strokes makes the set become inconsistent. Please also check that the artboards are the same size for all icons or illustrations. Read more about consistency: http://support.iconfinder.com/en/articles/2548775-consistency"
     }, {
         "title": "Inconsistent colors",
-        "description": "All icons in a set should use the same color palette. Also, using a narrow palette is better for a consistent set. If you choose to use a lot of colors, then try to balance them around the set to keep the icons still matching well together. Read more about consistency: http://support.iconfinder.com/en/articles/2548775-consistency"
+        "description": "All icons or illustrations in a set should use the same color palette. Also, using a narrow palette is better for a consistent set. If you choose to use a lot of colors, then try to balance them around the set to keep the items still matching well together. Read more about consistency: http://support.iconfinder.com/en/articles/2548775-consistency"
     }, {
         "title": "Inconsistent effects",
-        "description": "All icons in a set should use the same effects. For example, if you add a shadow to one icon and a gradient to another, then the set becomes inconsistent. Read more about consistency: http://support.iconfinder.com/en/articles/2548775-consistency"
+        "description": "All icons or illustrations in a set should use the same effects. For example, if you add a shadow to one item and a gradient to another, then the set becomes inconsistent. Read more about consistency: http://support.iconfinder.com/en/articles/2548775-consistency"
     }, {
         "title": "Inconsistent shapes",
-        "description": "The shapes that compose the icons should be the same across the set. If, for example, all icons are composed of a circle and a square, but one of them is using a triangle instead, that makes the set become inconsistent. Or, if you use arrows, make sure these look the same everywhere in the set. Read more about consistency: http://support.iconfinder.com/en/articles/2548775-consistency"
+        "description": "The shapes that compose the icons or illustrations should be the same across the set. If, for example, all items are composed of a circle and a square, but one of them is using a triangle instead, that makes the set become inconsistent. Or, if you use arrows, make sure these look the same everywhere in the set. Read more about consistency: http://support.iconfinder.com/en/articles/2548775-consistency"
     }, {
         "title": "Inconsistent background shapes",
         "description": "The background shapes should be the same across the set. Read more about consistency: http://support.iconfinder.com/en/articles/2548775-consistency"
     }, {
-        "title": "Text inconsistent with icon style",
-        "description": "When using text, type or characters on icons, make them be consistent with the style of the icon. The text elements should not stand out as different from the icons. Read more about consistency: http://support.iconfinder.com/en/articles/2548775-consistency"
+        "title": "Text inconsistent with design style",
+        "description": "When using text, type or characters on icons or illustrations, make them be consistent with the style of the item. The text elements should not stand out as different from the items. Read more about consistency: http://support.iconfinder.com/en/articles/2548775-consistency"
     }]
 }, {
     "order": "1",
     "title": "Variety",
     "reasons": [{
         "title": "Too little variety within set",
-        "description": "This set contains icons that are too repetitive. Sets that only contain one kind of icon with small differences do not sell well. Customers prefer to buy sets that have different icons that can be used together in the same project. Check our article on variety: http://support.iconfinder.com/en/articles/2548767-variety"
+        "description": "This set contains icons or illustrations that are too repetitive. Sets that only contain one kind of item with small differences do not sell well. Customers prefer to buy sets that have different items that can be used together in the same project. Check our article on variety: http://support.iconfinder.com/en/articles/2548767-variety"
     }]
 }, {
     "order": "2",
     "title": "Variations",
     "reasons": [{
         "title": "Too many variations",
-        "description": "This set is too similar to another version you have also submitted. Adding minimal changes such as backgrounds, shapes, or gradients creates too much repetition and is unnecessary, and clogs up the search results with similar icons. Try to create fewer, versatile, higher quality sets, rather than multiple versions of the same idea. Read more about variations here: http://support.iconfinder.com/en/articles/2611383-variations"
+        "description": "This set is too similar to another version you have also submitted. Adding minimal changes such as backgrounds, shapes, or gradients creates too much repetition and is unnecessary, and clogs up the search results with similar items. Try to create fewer, versatile, higher quality sets, rather than multiple versions of the same idea. Read more about variations here: http://support.iconfinder.com/en/articles/2611383-variations"
     }]
 }, {
     "order": "3",
     "title": "Business relevance",
     "reasons": [{
         "title": "Unnecessary colors",
-        "description": "Adding colors to these icons does not add any value. If the colors do not have any clear purpose, it is better not to use them. The same applies to unnecesary gradients. Read about colors: http://support.iconfinder.com/en/articles/2620425-colors. Learn about business relevance: http://support.iconfinder.com/en/articles/2533515-business-relevance and about variations: http://support.iconfinder.com/en/articles/2611383-variations"
+        "description": "Adding colors to these icons or illustrations does not add any value. If the colors do not have any clear purpose, it is better not to use them. The same applies to unnecesary gradients. Read about colors: http://support.iconfinder.com/en/articles/2620425-colors. Learn about business relevance: http://support.iconfinder.com/en/articles/2533515-business-relevance and about variations: http://support.iconfinder.com/en/articles/2611383-variations"
     }, {
         "title": "Unnecessary background shapes",
-        "description": "The background shapes do not add value to these icons. In that case, it is better not to use them. Each component of an icon should have a purpose. If there is no clear purpose for the background shapes, it is better not to use them - sometimes they can reduce the usability of the icons and hurt sales. Read about business relevance: http://support.iconfinder.com/en/articles/2533515-business-relevance and about variations: http://support.iconfinder.com/en/articles/2611383-variations"
+        "description": "The background shapes do not add value to these icons or illustrations. In that case, it is better not to use them. Each component of an icon or illustration should have a purpose. If there is no clear purpose for the background shapes, it is better not to use them - sometimes they can reduce the usability of the items and hurt sales. Read about business relevance: http://support.iconfinder.com/en/articles/2533515-business-relevance and about variations: http://support.iconfinder.com/en/articles/2611383-variations"
     }, {
         "title": "Lack of uniqueness",
-        "description": "These icons will have a hard time selling on Iconfinder as there is little that is unique about them, and many similar sets in this style and/or topic already exist. Make sure your icons stand out from the rest, and bring something new to customers. Try to search these icon’s tags on Iconfinder to see what existing content we already sell, and re-submit a set that’s fresh and different from what customers can already purchase."
+        "description": "These items will have a hard time selling on Iconfinder as there is little that is unique about them, and many similar sets in this style and/or topic already exist. Make sure your designs stand out from the rest, and bring something new to customers. Try to search these items’ tags on Iconfinder to see what existing content we already sell, and re-submit a set that’s fresh and different from what customers can already purchase."
     }, {
         "title": "Low business value",
-        "description": "These icons will have a hard time selling as there is little need for these concepts and design choices. Please make sure all icons are considered relevant and useful, and can fulfill the various needs of users."
+        "description": "These icons or illustrations will have a hard time selling as there is little need for these concepts and design choices. Please make sure all items are considered relevant and useful, and can fulfill the various needs of users."
     }, {
-        "title": "Oversupply of icons in this style",
-        "description": "The market for icons in this style is saturated and very competitive. That is why we can only accept icons of high quality, that can stand out and catch customers’ attention. Your icons need more work to become distinguished among all the other icons in this style. Read about business relevance: http://support.iconfinder.com/en/articles/2533515-business-relevance and about uniqueness: http://support.iconfinder.com/en/articles/2546060-uniqueness"
+        "title": "Oversupply of content in this style",
+        "description": "The market of icons or illustrations in this style is saturated and very competitive. That is why we can only accept icons or illustrations of high quality, that can stand out and catch customers’ attention. Your designs need more work to become distinguished among all the other items in this style. Read about business relevance: http://support.iconfinder.com/en/articles/2533515-business-relevance and about uniqueness: http://support.iconfinder.com/en/articles/2546060-uniqueness"
     }, {
-        "title": "Oversupply of icons on this topic",
-        "description": "The market for icons on this topic is saturated and very competitive. That is why we can only accept icons of high quality, that can stand out and catch customers’ attention. Your icons need more work to become distinguished among all the other icons on this topic. Try focusing on some novel topics. Read about business relevance: http://support.iconfinder.com/en/articles/2533515-business-relevance and about uniqueness: http://support.iconfinder.com/en/articles/2546060-uniqueness"
+        "title": "Oversupply of content on this topic",
+        "description": "The market for icons or illustrations on this topic is saturated and very competitive. That is why we can only accept icons or illustrations of high quality, that can stand out and catch customers’ attention. Your designs need more work to become distinguished among all the other items on this topic. Try focusing on some novel topics. Read about business relevance: http://support.iconfinder.com/en/articles/2533515-business-relevance and about uniqueness: http://support.iconfinder.com/en/articles/2546060-uniqueness"
     }]
 }, {
     "order": "4",
     "title": "Aesthetic appeal",
     "reasons": [{
-        "title": "Icons not aesthetic",
-        "description": "The majority of icons in this set need improvement and will not compete well with our existing content. At the moment, the icons do not look well drawn or feel harmonious, and their usability is unclear. Remember to limit the use of unnecessary elements, colors, and gradients. Try to identify the likely scenario for buying this set (using on a restaurant menu, website toolbar, school presentation) and work towards that goal, while paying more attention to the details. Read more about aesthetic appeal: http://support.iconfinder.com/en/articles/2548769-aesthetic-appeal"
+        "title": "Low aesthetic appeal",
+        "description": "The majority of items in this set need improvement and will not compete well with our existing content because they do not look good. At the moment, these icons or illustrations do not look well drawn or feel harmonious, and their usability is unclear. Remember to limit the use of unnecessary elements, colors, and gradients. Try to identify the likely scenario for buying this set (using on a restaurant menu, website toolbar, school presentation) and work towards that goal, while paying more attention to the details. Read more about aesthetic appeal: http://support.iconfinder.com/en/articles/2548769-aesthetic-appeal"
     }, {
-        "title": "Shapes not aesthetic",
-        "description": "The shapes in many of these icons do not meet our standards. They need some extra work to be able to compete with our existing content and sell well. Icons including hands, gestures, faces, expressions, and movement must be extremely accurate and precise to be approved. Make sure the dimensions, sizes, and line width work well for your topic. Carefully choose which details avoid, and which to include. Create icons that look beautiful individually, but also work well consistently when viewed all together.  Learn about aesthetic appeal: http://support.iconfinder.com/en/articles/2548769-aesthetic-appeal"
+        "title": "Shapes with low aesthetic appeal",
+        "description": "The shapes in many of these items do not meet our standards. They need some extra work to be able to compete with our existing content and sell well. Icons or illustrations including hands, gestures, faces, expressions, and movement must be extremely accurate and precise to be approved. Make sure the dimensions, sizes, and line width work well for your topic. Carefully choose which details avoid, and which to include. Create items that look beautiful individually, but also work well consistently when viewed all together.  Learn about aesthetic appeal: http://support.iconfinder.com/en/articles/2548769-aesthetic-appeal"
     }, {
-        "title": "Colors not aesthetic",
-        "description": "The choice of colors needs more work in this set. A good choice of colors will make the icons more appealing and they will sell better. Also, if you are using too strong colors, they can hurt sales. Check our article on colors: http://support.iconfinder.com/en/articles/2620425-colors. Learn more about aesthetic appeal: http://support.iconfinder.com/en/articles/2548769-aesthetic-appeal"
+        "title": "Colors with low aesthetic appeal",
+        "description": "The choice of colors needs more work in this set. A good choice of colors will make the icons or illustrations more appealing and they will sell better. Also, if you are using too strong colors, they can hurt sales. Check our article on colors: http://support.iconfinder.com/en/articles/2620425-colors. Learn more about aesthetic appeal: http://support.iconfinder.com/en/articles/2548769-aesthetic-appeal"
     }]
 }, {
     "order": "5",
     "title": "Quality standards",
     "reasons": [{
         "title": "Lack of refinement or style",
-        "description": "These icons need more work to have the right quality for Iconfinder and compete with our existing content. Spend some additional time refining details by making sure lines and elements are not clashing, shapes are nicely spaced, the set feels consistent, and everything looks well constructed. Most importantly, try to develop and showcase your personal style to help stand out more, as we already have similar looking sets for sale. Read up on our quality standards before re-submitting: http://support.iconfinder.com/en/articles/2549020-quality-standards"
+        "description": "These icons or illustrations need more work to have the right quality for Iconfinder and compete with our existing content. Spend some additional time refining details by making sure lines and elements are not clashing, shapes are nicely spaced, the set feels consistent, and everything looks well constructed. Most importantly, try to develop and showcase your personal style to help stand out more, as we already have similar looking sets for sale. Read up on our quality standards before re-submitting: http://support.iconfinder.com/en/articles/2549020-quality-standards"
     }, {
         "title": "Style conversions",
-        "description": "Directly transforming icons from one style to another is not a good practice and usually ends up with icons that don’t look right. Each set of icons needs needs to be rethought for each individual style and designed accordingly. Read more about style conversions: http://support.iconfinder.com/en/articles/4062490-directly-converted-glyphs"
+        "description": "Directly transforming icons or illustrations from one style to another is not a good practice and usually ends up with items that don’t look right. Each set needs needs to be rethought for each individual style and designed accordingly. Read more about style conversions: http://support.iconfinder.com/en/articles/4062490-directly-converted-glyphs"
     }, {
-         "title": "Icons not thorough",
-        "description": "This set feels rushed and has too many repetitive or basic elements, lacking the attention to details that we require. Please spend more time to make sure that each individual icon is constructed carefully and thoroughly. "
+         "title": "Items not thorough",
+        "description": "This set feels rushed and has too many repetitive or basic elements, lacking the attention to details that we require. Please spend more time to make sure that each individual icon or illustration is constructed carefully and thoroughly. "
     }, {
-        "title": "Text on icons",
-        "description": "In general, try to avoid using text on icons. Text can limit their usability. If you really need to use text, then make sure it matches the style of the icons. Read more about quality: http://support.iconfinder.com/en/articles/2549020-quality-standards"
+        "title": "Text on icons or illustrations",
+        "description": "In general, try to avoid using text on icons or illustrations. Text can limit their usability. If you really need to use text, then make sure it matches the style of the icons or illustrations. Read more about quality: http://support.iconfinder.com/en/articles/2549020-quality-standards"
     }]
 }, {
     "order": "6",
     "title": "Technical requirements",
     "reasons": [{
         "title": "Upload in SVG format",
-        "description": "Please upload the icons in SVG format. We accept PNGs only as an exception for icons that cannot be exported as vector (for example, for highly-rendered 3D icons). Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
+        "description": "Please upload the icons in SVG format. We accept PNGs only as an exception for icons or illustrations that cannot be exported as vector (for example, for highly-rendered 3D icons). Check our technical requirements before uploading: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
     }, {
         "title": "No silhouettes",
-        "description": "We do not accept artwork that is simply a literal silhouette of an object without creative interpretation. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
+        "description": "We do not accept artwork that is simply a literal silhouette of an object without creative interpretation. Check our technical requirements: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
     }, {
         "title": "No letterforms, numbers, or fonts",
-        "description": "We do not accept artwork that is simply a collection of letters, numbers, or keyboard characters. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
+        "description": "We do not accept artwork that is simply a collection of letters, numbers, or keyboard characters. Check our technical requirements: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
     }, {
-        "title": "Too few icons in set",
-        "description": "The minimum number of icons per set is 10. Please add more icons. The ideal icon set size is between 30 and 50 icons. This is large enough to offer the customer ample icons around a single topic, but small enough to not devalue icons. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements",
+        "title": "Too few items in set",
+        "description": "The minimum number of items per set is 10. Please add more items. The ideal set size is between 30 and 50 items. This is large enough to offer the customer ample choice around a single topic, but small enough to not devalue the set. Check our technical requirements: http://support.iconfinder.com/en/articles/2541051-technical-requirements",
         "autocheck": "too_few_icons"
     }, {
-        "title": "Too many icons in set",
-        "description": "The maximum number of icons per set is 250. We recommend to split the icons into two or more sets. The ideal icon set size is between 30 and 50 icons. This is large enough to offer the customer ample icons around a single topic, but small enough to not devalue icons. Remember you can group sets in families. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements",
+        "title": "Too many items in set",
+        "description": "The maximum number of items per set is 250. We recommend to split the set into two or more. The ideal set size is between 30 and 50 items. This is large enough to offer the customer ample choice around a single topic, but small enough to not devalue the set. Remember you can group sets in families. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements",
         "autocheck": "too_many_icons"
     }, {
         "title": "Incorrect tags",
-        "description": "Please keep all your tags specific and relevant to what the icon depicts. Consider each tag individually, and ask yourself it it would make sense for your icon to appear if that word is searched. Read our tagging guidelines for details: https://support.iconfinder.com/en/articles/18163-tags"
+        "description": "Please keep all your tags specific and relevant to what the item depicts. Consider each tag individually, and ask yourself it it would make sense for your item to appear if that word is searched. Read our tagging guidelines for details: https://support.iconfinder.com/en/articles/18163-tags"
     }, {
         "title": "Too many tags",
-        "description": "The ideal number of tags is between 4 and 9 per icon. If you have more than 9 tags, that will decrease the rank of the icon in the search results. Learn about tags here: http://support.iconfinder.com/en/articles/18163-tags",
+        "description": "The ideal number of tags is between 4 and 9 per item. If you have more than 9 tags, that will decrease the rank of the item in the search results. Learn about tags here: http://support.iconfinder.com/en/articles/18163-tags",
         "autocheck": "too_many_tags"
     }, {
         "title": "Too few tags",
-        "description": "The ideal number of tags is between 4 and 9 per icon. If it makes sense to have less than 4 tags, that is ok. If you have more than 9 tags, that will decrease the rank of the icon in the search results. Learn about tags here: http://support.iconfinder.com/en/articles/18163-tags",
+        "description": "The ideal number of tags is between 4 and 9 per item. If it makes sense to have less than 4 tags, that is ok. If you have more than 9 tags, that will decrease the rank of the item in the search results. Learn about tags here: http://support.iconfinder.com/en/articles/18163-tags",
         "autocheck": "too_few_tags"
     }, {
         "title": "No logos or other trademarked elements",
-        "description": "For legal reasons, we cannot sell icons that include company logos or trademarks such as those belonging to social media sites (Facebook, YouTube, Twitter) or banking and payment logos (Visa, MasterCard, PayPal). We can only accept them as free icons. Check our technical requirements for icons: https://support.iconfinder.com/en/articles/4147363-logos-trademarks"
+        "description": "For legal reasons, we cannot sell artwork that include company logos or trademarks such as those belonging to social media sites (Facebook, YouTube, Twitter) or banking and payment logos (Visa, MasterCard, PayPal). We can only accept them as free icons. Check our technical requirements: https://support.iconfinder.com/en/articles/4147363-logos-trademarks"
     }, {
         "title": "Not iconic, too many details",
         "description": "Icons are simplified, idealized, stylized images that represent an action, object, or idea. They should be easily recognisable in small sizes. An icon that has too many details makes the icon hard to use and not iconic. Check our technical requirements for icons: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
     }, {
         "title": "Alignment within artboard",
-        "description": "Icons should be centered and fit within the artboard. The artboard must be squared and have the same size for all icons. Having small icons on a large artboard leads to small icon previews. Having different artboard sizes leads to inconsistent line weights in the previews. If icons are larger than the artboard, they will get clipped edges. Read about artboards here: http://support.iconfinder.com/en/articles/18154-artboards-and-icon-templates"
+        "description": "Icons or illustrations should be centered and fit within the artboard. The artboard must be squared and have the same size for all items. Having small icons or illustrations on a large artboard leads to small previews. Having different artboard sizes leads to inconsistent line weights in the previews. If items are larger than the artboard, they will get clipped edges. Read about artboards here: http://support.iconfinder.com/en/articles/18154-artboards-and-icon-templates"
     }, {
         "title": "White fill error",
-        "description": "Some shapes have white fills where they should probably be transparent. Try viewing your icons on a dark background to make sure they look as you intend."
+        "description": "Some shapes have white fills where they should probably be transparent. Try viewing your icons or illustrations on a dark background to make sure they look as you intend."
     }, {
-        "title": "Split your icon set into individual files",
-        "description": "You have submitted a single vector file with all your icons. Please split it to have each icon as a separate SVG file. Check our technical requirements: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
+        "title": "Split your set into individual files",
+        "description": "You have submitted a single vector file with all your items. Please split it to have each item as a separate SVG file. Check our technical requirements: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
     }, {
-        "title": "Icon set name should be relevant to set content",
-        "description": "Icon set names should describe what the set is about. Try to use unique and memorable set names. Check our technical requirements for set names: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
+        "title": "Set name should be relevant to set content",
+        "description": "Set names should describe what the set is about. Try to use unique and memorable set names. Check our technical requirements for set names: http://support.iconfinder.com/en/articles/2541051-technical-requirements"
     }]
 }, {
     "order": "7",
     "title": "Uniqueness",
     "reasons": [{
         "title": "Too similar to another designer",
-        "description": "While nobody can copyright or own a design style, in some cases, too much similarity between designers or icon sets creates confusion for customers. Read our Policy for copyright infringing material: http://support.iconfinder.com/en/articles/18197-policy-towards-copyright-infringing-material and learn about uniqueness: http://support.iconfinder.com/en/articles/2546060-uniqueness"
+        "description": "While nobody can copyright or own a design style, in some cases, too much similarity between designers or sets creates confusion for customers. Read our Policy for copyright infringing material: http://support.iconfinder.com/en/articles/18197-policy-towards-copyright-infringing-material and learn about uniqueness: http://support.iconfinder.com/en/articles/2546060-uniqueness"
     }]
 }, {
     "order": "8",
     "title": "Diversity",
     "reasons": [{
         "title": "Lack of diversity",
-        "description": "Try to not limit your icons to stereotypes. Include different kinds of people in your set. Do not stick only to white businessmen or women doing housework. Try to stay open-minded and add some diversity of gender, skin color, age, etc. Read about diversity in icon design: https://blog.iconfinder.com/the-issue-of-diversity-in-icon-design-e48100e11943"
+        "description": "Try to not limit your designs to stereotypes. Include different kinds of people in your set. Do not stick only to white businessmen or women doing housework. Try to stay open-minded and add some diversity of gender, skin color, age, etc. Read about diversity in design: https://blog.iconfinder.com/the-issue-of-diversity-in-icon-design-e48100e11943"
     }]
 }, {
     "order": "9",
+    "title": "Illustration-specific",
+    "reasons": [{
+        "title": "No collages of icons as illustrations",
+        "description": "We cannot approve illustrations that are simply a collage of icons. Arranging icons together to form a larger and more complex design does not fit with our definition of an illustration. Check our guidelines for illustrations: https://support.iconfinder.com/en/articles/5378976-guidelines-for-illustrations"
+    }]
+}, {
+    "order": "10",
     "title": "Other",
     "reasons": [{
         "title": "Missing address information",
-        "description": "We are missing your address information and cannot approve your set without it. This information will be visible only to you and it will be used on your receipts for icon sales. You can add it here: https://www.iconfinder.com/account/payment-settings",
+        "description": "We are missing your address information and cannot approve your set without it. This information will be visible only to you and it will be used on your receipts for sales. You can add it here: https://www.iconfinder.com/account/payment-settings",
         "autocheck": "sufficient_details"
     }, {
         "title": "Please do not ignore suggestions",
-        "description": "Please do not ignore our requests for changes to your icons. Ignoring our recommendations wastes your time and ours and resubmitting the icons without changes will not achieve a different result. It risks getting the set rejected."
+        "description": "Please do not ignore our requests for changes to your designs. Ignoring our recommendations wastes your time and ours and resubmitting the icons or illustrations without changes will not achieve a different result. It risks getting the set rejected."
     }, {
-        "title": "We accept only icons",
-        "description": "Please do not upload generic graphics. We can only accept icons. Icons are simplified, idealised, stylised images that represent an action, object, or idea. They should be easily recognisable in small sizes."
+        "title": "No generic graphics",
+        "description": "Please do not upload generic graphics. We accept only icons and illustrations."
     }]
 }]
