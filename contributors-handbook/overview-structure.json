@@ -1,6 +1,6 @@
 {
-	"1. Before uploading icons": [{
-			"title": "Criteria for getting icons approved",
+	"1. Before uploading": [{
+			"title": "Criteria for getting submissions approved",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
 		},
 		{
@@ -40,16 +40,16 @@
 			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/colors"
 		},
 		{
-			"title": "Artboards and icon templates",
+			"title": "Artboards and templates",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/artboards-and-icon-templates"
 		}
 	],
-	"2. Icon upload & Management": [{
+	"2. Content upload & Management": [{
 			"title": "Adding tags",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-upload-and-management/tags"
 		},
 		{
-			"title": "Icon families",
+			"title": "Families",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/how-to-manage-icon-sets-and-families"
 		},
 		{
@@ -57,15 +57,15 @@
 			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/your-icons-were-rejected-what-to-do"
 		},
 		{
-			"title": "Icons stopped uploading",
+			"title": "Artwork stopped uploading",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/what-to-do-when-your-icons-are-not-uploading"
 		},
 		{
-			"title": "Adding to existing icon set",
+			"title": "Adding to existing set",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/how-to-add-to-or-delete-icons-from-an-icon-set"
 		},
 		{
-			"title": "Recent icons not showing",
+			"title": "Recent uploads not showing",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/why-are-your-recently-uploaded-icons-not-in-the-search-results"
 		},
 		{
@@ -98,7 +98,7 @@
 			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/selling-custom-services-through-iconfinder"
 		},
 		{
-			"title": "How to sell icons under the Extended license?",
+			"title": "How to sell artwork under the Extended license?",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/how-to-sell-icons-under-the-extended-license"
 		},
 		{
@@ -107,7 +107,7 @@
 		}
 	],
 	"4. Verification & Copyright": [{
-			"title": "Copyright basics for icon designers",
+			"title": "Copyright basics for designers",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-designer-verification-and-copyright/copyright-basics-for-icon-designers"
 		},
 		{
