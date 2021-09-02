@@ -1,72 +1,89 @@
 {
 	"1. Before uploading": [{
-			"title": "Criteria for getting content approved",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/criteria-for-approving-icons"
+			"title": "Criteria for getting artwork approved",
+			"url": "https://support.iconfinder.com/en/articles/2529941-criteria-for-getting-icons-and-illustrations-approved"
 		},
 		{
 			"title": "Technical requirements",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/upload-specifications"
+			"url": "https://support.iconfinder.com/en/articles/2541051-technical-requirements"
 		},
 		{
 			"title": "Quality standards",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/quality-standards"
+			"url": "https://support.iconfinder.com/en/articles/2549020-quality-standards"
 		},
 		{
 			"title": "Aesthetic appeal",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/aesthetic-appeal"
+			"url": "https://support.iconfinder.com/en/articles/2548769-aesthetic-appeal"
 		},
 		{
 			"title": "Business relevance",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/business-relevance"
+			"url": "https://support.iconfinder.com/en/articles/2533515-business-relevance"
 		},
 		{
 			"title": "Uniqueness",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/uniqueness"
+			"url": "https://support.iconfinder.com/en/articles/2546060-uniqueness"
 		},
 		{
 			"title": "Variety",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variety"
+			"url": "https://support.iconfinder.com/en/articles/2548767-variety"
 		},
 		{
 			"title": "Variations",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/variations"
+			"url": "https://support.iconfinder.com/en/articles/2611383-variations"
 		},
 		{
 			"title": "Consistency",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/consistency"
+			"url": "https://support.iconfinder.com/en/articles/2548775-consistency"
 		},
 		{
 			"title": "Colors",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/colors"
+			"url": "https://support.iconfinder.com/en/articles/2620425-colors"
+		},
+		{
+			"title": "Diversity",
+			"url": "https://support.iconfinder.com/en/articles/2620425-colors"
 		},
 		{
 			"title": "Artboards and templates",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-before-uploading-icons/artboards-and-icon-templates"
-		}
-	],
-	"2. Content upload & Management": [{
-			"title": "Adding tags",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-upload-and-management/tags"
+			"url": "https://support.iconfinder.com/en/articles/5541030-diversity"
 		},
 		{
-			"title": "Content families",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/how-to-manage-icon-sets-and-families"
+			"title": "Exporting to SVG",
+			"url": "https://support.iconfinder.com/en/articles/5523202-best-practices-for-exporting-to-svg"
+		},
+		{
+			"title": "Guidelines for 3D artwork",
+			"url": "https://support.iconfinder.com/en/articles/5472712-guidelines-for-3d-icons"
+		}
+	],
+	"2. Content upload & Management": [
+		{
+			"title": "How to upload",
+			"url": "https://support.iconfinder.com/en/articles/18147-how-to-upload-icons-and-illustrations-to-iconfinder"
+		},
+		{
+			"title": "Adding tags",
+			"url": "https://support.iconfinder.com/en/articles/18163-tags"
+		},
+		{
+			"title": "Organising in sets and families",
+			"url": "https://support.iconfinder.com/en/articles/18151-how-to-manage-sets-and-families"
 		},
 		{
 			"title": "Submission rejected",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/your-icons-were-rejected-what-to-do"
+			"url": "https://support.iconfinder.com/en/articles/1000781-your-set-was-rejected-what-to-do"
 		},
 		{
 			"title": "Content stopped uploading",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/what-to-do-when-your-icons-are-not-uploading"
+			"url": "https://support.iconfinder.com/en/articles/18153-what-to-do-when-your-files-are-not-uploading"
 		},
 		{
-			"title": "Adding to existing set",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/how-to-add-to-or-delete-icons-from-an-icon-set"
+			"title": "Adding, replacing or removing content",
+			"url": "https://support.iconfinder.com/en/articles/18150-how-to-add-replace-or-delete-content-from-a-set"
 		},
 		{
 			"title": "Recent content not showing",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-icon-management/why-are-your-recently-uploaded-icons-not-in-the-search-results"
+			"url": "https://support.iconfinder.com/en/articles/439766-why-is-your-recently-uploaded-content-not-in-the-search-results"
 		},
 		{
 			"title": "Content care",
@@ -74,53 +91,53 @@
 		}
 	],
 	"3. Sales & Cash-outs": [{
-			"title": "How to start selling on Iconfinder?",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/how-to-start-selling-icons-on-iconfinder"
+			"title": "How to start selling on Iconfinder",
+			"url": "https://support.iconfinder.com/en/articles/2184335-how-to-start-selling-icons-and-illustrations-on-iconfinder"
 		},
 		{
 			"title": "Contributor's business guide",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/contributor-business-guide"
+			"url": "https://support.iconfinder.com/en/articles/18144-contributor-business-guide"
 		},
 		{
-			"title": "How to request a cash out?",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/how-to-request-a-cash-out"
+			"title": "How to request a cash-out",
+			"url": "https://support.iconfinder.com/en/articles/1322681-how-to-request-a-cash-out"
 		},
 		{
-			"title": "How to use Sales Analytics?",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/how-to-use-sales-analytics"
+			"title": "How to use Sales Analytics",
+			"url": "https://support.iconfinder.com/en/articles/18152-how-to-use-sales-analytics"
 		},
 		{
-			"title": "Tips and tricks for improving your sales on Iconfinder",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/tips-and-tricks-for-improving-your-sales-on-iconfinder"
+			"title": "Tips and tricks for improving sales",
+			"url": "https://support.iconfinder.com/en/articles/18149-tips-and-tricks-for-improving-your-sales-on-iconfinder"
 		},
 		{
 			"title": "Selling custom services through Iconfinder",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/selling-custom-services-through-iconfinder"
+			"url": "https://support.iconfinder.com/en/articles/644774-selling-custom-services-through-iconfinder"
 		},
 		{
-			"title": "How to sell content under the Extended license?",
+			"title": "Selling content under the Extended license",
 			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/how-to-sell-icons-under-the-extended-license"
 		},
 		{
-			"title": "Why do refunds happen?",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-sales-and-cash-outs/why-do-refunds-happen"
+			"title": "Why do refunds happen",
+			"url": "https://support.iconfinder.com/en/articles/18166-why-do-refunds-happen"
 		}
 	],
 	"4. Verification & Copyright": [{
 			"title": "Copyright basics for contributing designers",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-designer-verification-and-copyright/copyright-basics-for-icon-designers"
+			"url": "https://support.iconfinder.com/en/articles/1735140-copyright-basics-for-graphic-designers"
 		},
 		{
 			"title": "Account verification",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-designer-verification-and-copyright/account-verification"
+			"url": "https://support.iconfinder.com/en/articles/18165-account-verification"
 		},
 		{
 			"title": "Checklist for Account verification",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-designer-verification-and-copyright/checklist-for-account-verification"
+			"url": "https://support.iconfinder.com/en/articles/4047009-checklist-for-account-verification"
 		},
 		{
 			"title": "Policy towards copyright infringing material",
-			"url": "http://support.iconfinder.com/contributor-s-handbook-designer-verification-and-copyright/policy-towards-copyright-infringing-material"
+			"url": "https://support.iconfinder.com/en/articles/18197-policy-towards-copyright-infringing-material"
 		}
 	]
 }
