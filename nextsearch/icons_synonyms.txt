@@ -262,6 +262,8 @@ Palestine, Gaza
 West Bank, the west bank
 Father, dad
 Mother, mom
+no results, 404, not found, page not found, empty states
+link => url
 
 
 # Countries & locations
