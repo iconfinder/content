@@ -655,3 +655,6 @@ pc, computer
 rpg, role playing game, role-playing game
 xxx, explicit
 ppt, pptx, powerpoint
+
+#Emojis
+🦄, unicorn
