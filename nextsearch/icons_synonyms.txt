@@ -658,3 +658,4 @@ ppt, pptx, powerpoint
 
 #Emojis
 🦄, unicorn
+emoji, smiley, emoticon
