@@ -83,7 +83,10 @@
         "description": "These icons or illustrations need more work to have the right quality for Iconfinder and compete with our existing content. Spend some additional time refining details by making sure lines and elements are not clashing, shapes are nicely spaced, the set feels consistent, and everything looks well constructed. Most importantly, try to develop and showcase your personal style to help stand out more, as we already have similar looking sets for sale. Read up on our quality standards before re-submitting: http://support.iconfinder.com/en/articles/2549020-quality-standards"
     }, {
         "title": "Style conversions",
-        "description": "Directly transforming icons or illustrations from one style to another is not a good practice and usually ends up with items that don’t look right. Each set needs needs to be rethought for each individual style and designed accordingly. Read more about style conversions: http://support.iconfinder.com/en/articles/4062490-directly-converted-glyphs"
+        "description": "Directly transforming icons or illustrations from one style to another is not a good practice and usually ends up with items that don’t look right. Each set needs needs to be rethought for each individual style and designed accordingly. For example, applying an automatic handdrawn effect to outline icons or inverting shapes from solid to outline or viceversa is not a good practice."
+    }, {
+        "title": "Solid icons not usable",
+        "description": "These solid icons can be found unusable by customers and therefore not sell. Solid icons are used for menus and user interfaces and need to be optimized for very small sizes. Make sure your icons are still recognizable when seen in 16px or 32px. Reduce details and add more negative space. Read more: https://support.iconfinder.com/en/articles/4062490-usability-of-solid-icons"
     }, {
          "title": "Items not thorough",
         "description": "This set feels rushed and has too many repetitive or basic elements, lacking the attention to details that we require. Please spend more time to make sure that each individual icon or illustration is constructed carefully and thoroughly. "
