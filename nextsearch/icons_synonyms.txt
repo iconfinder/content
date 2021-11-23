@@ -166,6 +166,7 @@ water, water drop, water droplets
 warning, caution, alert, error
 exit, logout, log out
 support => customer support
+customer support, customer service
 ok, okay
 wifi, wi-fi
 cat, kitty, kitten
