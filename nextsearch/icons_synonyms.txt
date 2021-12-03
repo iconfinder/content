@@ -266,6 +266,10 @@ Mother, mom
 no results, 404, not found, page not found, empty states
 link => url
 autumn => fall
+superhero => superwoman
+superhero => superman
+superhero => spiderman
+superhero => batman
 
 
 # Countries & locations
