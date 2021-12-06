@@ -26,6 +26,7 @@ check, mark: checkmark
 shopping, bag: shopping bag
 shopping, cart: shopping cart
 shopping, basket: shopping basket
+online, shop: online shop
 call, center: call center
 customer, service: customer service
 customer, support: customer support
@@ -43,6 +44,7 @@ contact, us: contact us
 real, estate: real estate
 digital, marketing: digital marketing
 social, network: social network
+social, media: social media
 face, mask: facemask
 web, design: web design
 web, designer: web designer
@@ -92,6 +94,7 @@ black, hole: black hole
 air, conditioner: air conditioner
 music, note: music note
 mouse, pointer: mouse pointer
+mouse, cursor: mouse cursor
 price, tag: price tag
 hand, sanitizer: hand sanitizer 
 power, point: powerpoint
@@ -108,6 +111,7 @@ number, one: number one
 shake, hands: shake hands
 shake, hand: shake hand
 happy, face: happy face
+sad, face: sad face
 to, do: to do
 human, resources: human resources
 scroll, down: scroll down
@@ -128,5 +132,102 @@ video, game: video game
 united, kingdom: united kingdom
 data, analytics: data analytics
 thumbs, up: thumbs up
+thumbs, down: thumbs down
 fast, food: fast food
-
+palm, tree: palm tree
+hard, drive: hard drive
+pie, chart: pie chart
+bar, chart: bar chart
+spread, sheet: spreadsheet
+skin, care: skincare
+double, arrow: double arrow
+user, profile: user profile
+career, ladder: career ladder
+curriculum, vitae: curriculum vitae
+steering, wheel: steering wheel
+video, conference: video conference
+smart, phone: smartphone
+smart, home: smart home
+stay, home: stay home
+solar, pannel: solar panel
+e, commerce: ecommerce
+e, mail: email
+plus, sign: plus sign
+minus, sign: minus sign
+business, card: business card
+team, work: teamwork
+chat, bubble: chat bubble
+upload, image: upload image
+phone, number: phone number
+risk, management: risk management
+search, bar: search bar
+chocolate, bar: chocolate bar
+navigation, bar: navigation bar
+search, results: search results
+drop, down: dropdown
+healthy, food: healthy food
+motor, bike: motorbike
+coming, soon: coming soon
+living, room: living room
+crypto, currency: cryptocurrency
+happy, emoji: happy emoji
+sad, emoji: sad emoji
+master, card: mastercard
+progress, bar: progress bar
+christmas, tree: christmas tree
+first, aid: first aid
+cross, hair: crosshair
+meeting, room: meeting room
+bank, account: bank account
+augmented, reality: augmented reality
+security, camera: security camera
+under, construction: under construction
+blood, pressure: blood pressure
+current, location: current location
+quality, assurance: quality assurance
+car, wash: car wash
+gas, station: gas station
+bus, stop: bus stop
+share, button: share button
+technical, support: technical support
+swimming, pool: swimming pool
+profile, picture: profile picture
+customer, care: customer care
+free, download: free download
+user, experience: user experience
+open, source: open source
+bank, transfer: bank transfer
+text, message: text message
+remote, control: remote control
+star, rating: star rating
+quality, control: quality control
+barcode, scanner: barcode scanner
+secure, payment: secure payment
+quotation, mark: quotation mark
+smiley, face: smiley face
+landing, page: landing page
+open, door: open door
+happy, birthday: happy birthday
+happy, new year: happy new year
+merry, christmas: merry christmas
+happy, hannukah: happy hannukah
+happy, easter: happy easter
+happy, thanksgiving: happy thanksgiving
+black, friday: black friday
+cyber, monday: cyber monday
+safe, flight: safe flight
+add, image: add image
+privacy, policy: privacy policy
+interior, design: interior design
+cash, register: cash register
+close, button: close button
+customer, satisfaction: customer satisfaction
+customer, review: customer review
+online, course: online course
+online, learning: online learning
+time, management: time management
+file, upload: file upload
+turn, on: turn on
+turn, off: turn off
+climate, change: climate change
+e, learning
