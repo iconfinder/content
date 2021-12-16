@@ -270,6 +270,7 @@ superhero => superwoman
 superhero => superman
 superhero => spiderman
 superhero => batman
+gnome, elf
 
 
 # Countries & locations
