@@ -271,6 +271,9 @@ superhero => superman
 superhero => spiderman
 superhero => batman
 gnome, elf
+romance, love
+Valentine, Valentines, Vanlentine's, Valentine's Day, Valentines Day
+
 
 
 # Countries & locations
