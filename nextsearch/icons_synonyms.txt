@@ -271,7 +271,7 @@ superhero => superman
 superhero => spiderman
 superhero => batman
 gnome, elf
-romance, love
+romance, love, romantic
 Valentine, Valentines, Vanlentine's, Valentine's Day, Valentines Day
 
 
