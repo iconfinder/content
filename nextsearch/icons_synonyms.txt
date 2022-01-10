@@ -273,6 +273,7 @@ superhero => batman
 gnome, elf
 romance, love, romantic, heart
 Valentine, Valentines, Vanlentine's, Valentine's Day, Valentines Day
+kissing, kiss, smooch
 
 
 
