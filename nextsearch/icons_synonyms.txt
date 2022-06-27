@@ -29,7 +29,7 @@ Black friday, blackfriday
 Cyber monday, cybermonday
 Mother's day, mothersday, mothers day
 Father's day, fathersday, fathers day
-Independence Day, July 4, July 4th, fourth of july
+Independence Day, July 4, July 4th, fourth of july, 4th of july, 4 july, July fourth
 Ramadan, Ramazan, Ramzan, Ramadhan, Ramathan
 
 # Acronyms
