@@ -276,8 +276,7 @@ gnome, elf
 romance, love, romantic, heart
 Valentine, Valentines, Vanlentine's, Valentine's Day, Valentines Day
 kissing, kiss, smooch
-
-
+color, colour
 
 # Countries & locations
 nyc, new york city
